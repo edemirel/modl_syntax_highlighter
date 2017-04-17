@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+LongestPath(${1:Links File}, ${2: Start Point ID}, ${3: End Point ID});
+]]>
+</content>
+         <tabTrigger>longestpath </tabTrigger>
+    <scope>source.modl</scope>
+    <description> longestpath </description>
+</snippet>

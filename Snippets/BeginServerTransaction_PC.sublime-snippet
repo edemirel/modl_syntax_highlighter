@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+BeginServerTransaction(${1:Connection ID});
+]]>
+</content>
+         <tabTrigger>BeginServerTransaction </tabTrigger>
+    <scope>source.modl</scope>
+    <description> BeginServerTransaction </description>
+</snippet>

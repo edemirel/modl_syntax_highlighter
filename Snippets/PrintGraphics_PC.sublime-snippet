@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+PrintGraphics();
+]]>
+</content>
+         <tabTrigger>PrintGraphics </tabTrigger>
+    <scope>source.modl</scope>
+    <description> PrintGraphics </description>
+</snippet>

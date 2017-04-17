@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CreateToolBar(${1:ToolBar Name}, ${2: Visible Flag}, ${3: Initial Position}, ${4: X Screen Coordinate}, ${5: YScreen Coordinate});
+]]>
+</content>
+         <tabTrigger>createtoolbar </tabTrigger>
+    <scope>source.modl</scope>
+    <description> createtoolbar </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IsEtakMap(${1:Etak MapAccess File}, ${2: Output Variable});
+]]>
+</content>
+         <tabTrigger>isetakmap </tabTrigger>
+    <scope>source.modl</scope>
+    <description> isetakmap </description>
+</snippet>

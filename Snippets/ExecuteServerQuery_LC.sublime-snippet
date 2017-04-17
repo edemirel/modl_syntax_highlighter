@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ExecuteServerQuery(${1:Connection ID}, ${2: "SQL Query File"}, ${3: File});
+]]>
+</content>
+         <tabTrigger>executeserverquery </tabTrigger>
+    <scope>source.modl</scope>
+    <description> executeserverquery </description>
+</snippet>

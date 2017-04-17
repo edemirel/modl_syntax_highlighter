@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SaveFile(${1:Modified File}, ${2: "Output Disk File"}, ${3: File Format}, ${4: Active Records ONLY Flag}, ${5: OutputDisk Format File});
+]]>
+</content>
+         <tabTrigger>SaveFile </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SaveFile </description>
+</snippet>

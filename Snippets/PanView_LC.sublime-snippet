@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+PanView(${1:Status Message }, ${2:X-Center TVar }, ${3: Y-Center TVar}, ${4:Mode});
+]]>
+</content>
+         <tabTrigger>panview </tabTrigger>
+    <scope>source.modl</scope>
+    <description> panview </description>
+</snippet>

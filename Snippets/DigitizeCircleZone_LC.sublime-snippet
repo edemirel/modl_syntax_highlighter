@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DigitizeCircleZone(${1:Zone File}, ${2: Center-Status Message}, ${3: Radius-Status Message});
+]]>
+</content>
+         <tabTrigger>digitizecirclezone </tabTrigger>
+    <scope>source.modl</scope>
+    <description> digitizecirclezone </description>
+</snippet>

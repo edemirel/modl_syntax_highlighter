@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ScaleRouteWidth(${1:Route File}, ${2: Test Field}, ${3: Lower Bound}, ${4: Upper Bound});
+]]>
+</content>
+         <tabTrigger>ScaleRouteWidth </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ScaleRouteWidth </description>
+</snippet>

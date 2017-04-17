@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SelectRecord(${1:Title}, ${2: File}, ${3: {Fields}}, ${4: Output Field}, ${5: Single Selection}, ${6: Display Field Names}, ${7:Show Active Only}, ${8: Use Initial Selection}, ${9: Output Variable});
+]]>
+</content>
+         <tabTrigger>selectrecord </tabTrigger>
+    <scope>source.modl</scope>
+    <description> selectrecord </description>
+</snippet>

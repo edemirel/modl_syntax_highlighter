@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetRelation(${1:File}, ${2: Field}, ${3: Relational File}, ${4: Relational Field});
+]]>
+</content>
+         <tabTrigger>setrelation </tabTrigger>
+    <scope>source.modl</scope>
+    <description> setrelation </description>
+</snippet>

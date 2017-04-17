@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SaveMenu(${1:Menu}, ${2: "Disk File"});
+]]>
+</content>
+         <tabTrigger>savemenu </tabTrigger>
+    <scope>source.modl</scope>
+    <description> savemenu </description>
+</snippet>

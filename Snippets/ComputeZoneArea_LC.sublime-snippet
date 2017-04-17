@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ComputeZoneArea(${1:Zone File}, ${2: Units});
+]]>
+</content>
+         <tabTrigger>computezonearea </tabTrigger>
+    <scope>source.modl</scope>
+    <description> computezonearea </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ShowKeyWindow(${1:Object Type});
+]]>
+</content>
+         <tabTrigger>ShowKeyWindow </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ShowKeyWindow </description>
+</snippet>

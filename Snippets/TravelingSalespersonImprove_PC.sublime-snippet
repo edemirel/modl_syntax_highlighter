@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+TravelingSalespersonImprove(${1:Points File}, ${2: Links File}, ${3: Algorithm});
+]]>
+</content>
+         <tabTrigger>TravelingSalespersonImprove </tabTrigger>
+    <scope>source.modl</scope>
+    <description> TravelingSalespersonImprove </description>
+</snippet>

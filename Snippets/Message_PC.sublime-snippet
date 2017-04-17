@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+Message(${1:Title Bar Message}, ${2: Message}, ${3: [Output Variable}, ${4:] [Box Type]});
+]]>
+</content>
+         <tabTrigger>Message </tabTrigger>
+    <scope>source.modl</scope>
+    <description> Message </description>
+</snippet>

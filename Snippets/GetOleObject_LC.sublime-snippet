@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GetOleObject(${1:Output Variable}, ${2: Disk File Name}, ${3: [OLE Class Name]});
+]]>
+</content>
+         <tabTrigger>getoleobject </tabTrigger>
+    <scope>source.modl</scope>
+    <description> getoleobject </description>
+</snippet>

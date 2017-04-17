@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ResetObjectFiles();
+]]>
+</content>
+         <tabTrigger>resetobjectfiles </tabTrigger>
+    <scope>source.modl</scope>
+    <description> resetobjectfiles </description>
+</snippet>

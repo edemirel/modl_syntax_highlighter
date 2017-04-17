@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+LegendSectionBegin(${1:Legend Window Name}, ${2: Section ID});
+]]>
+</content>
+         <tabTrigger>LegendSectionBegin </tabTrigger>
+    <scope>source.modl</scope>
+    <description> LegendSectionBegin </description>
+</snippet>

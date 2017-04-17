@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+TransferFieldValue(${1:Target File}, ${2: Target Join Field}, ${3: Source File}, ${4: Source Join Field}, ${5: TargetField}, ${6: Source Field}, ${7: Compute Action});
+]]>
+</content>
+         <tabTrigger>TransferFieldValue </tabTrigger>
+    <scope>source.modl</scope>
+    <description> TransferFieldValue </description>
+</snippet>

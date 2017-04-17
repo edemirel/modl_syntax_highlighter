@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DigitizePoint(${1:Points File}, ${2: Status Message});
+]]>
+</content>
+         <tabTrigger>digitizepoint </tabTrigger>
+    <scope>source.modl</scope>
+    <description> digitizepoint </description>
+</snippet>

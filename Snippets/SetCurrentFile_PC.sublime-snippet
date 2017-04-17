@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetCurrentFile(${1:File});
+]]>
+</content>
+         <tabTrigger>SetCurrentFile </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SetCurrentFile </description>
+</snippet>

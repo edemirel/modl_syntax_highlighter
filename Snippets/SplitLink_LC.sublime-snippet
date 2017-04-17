@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SplitLink(${1:Links File}, ${2: "Link ID"}, ${3: Status Message});
+]]>
+</content>
+         <tabTrigger>splitlink </tabTrigger>
+    <scope>source.modl</scope>
+    <description> splitlink </description>
+</snippet>

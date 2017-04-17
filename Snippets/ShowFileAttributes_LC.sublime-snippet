@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ShowFileAttributes(${1:File});
+]]>
+</content>
+         <tabTrigger>showfileattributes </tabTrigger>
+    <scope>source.modl</scope>
+    <description> showfileattributes </description>
+</snippet>

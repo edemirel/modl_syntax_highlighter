@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IdentifyObject(${1:File}, ${2: Input Point X}, ${3: Input Point Y}, ${4: Table File}, ${5: Record File});
+]]>
+</content>
+         <tabTrigger>identifyobject </tabTrigger>
+    <scope>source.modl</scope>
+    <description> identifyobject </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+TransferObjectToObject(${1:Target File}, ${2: Target Join Field}, ${3: Source File}, ${4: Source Join Field}, ${5:Target Field}, ${6: Source Field});
+]]>
+</content>
+         <tabTrigger>TransferObjectToObject </tabTrigger>
+    <scope>source.modl</scope>
+    <description> TransferObjectToObject </description>
+</snippet>

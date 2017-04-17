@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+TimeExpandNetwork(${1:PointSet}, ${2: LinkSet}, ${3: Horizon}, ${4: Overwrite});
+]]>
+</content>
+         <tabTrigger>TimeExpandNetwork </tabTrigger>
+    <scope>source.modl</scope>
+    <description> TimeExpandNetwork </description>
+</snippet>

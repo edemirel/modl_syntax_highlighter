@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ClusterRouter(${1:Vehicle File}, ${2: Links File}, ${3: Parameter File}, ${4: Links Network Arcs File}, ${5: LinksNetwork Access Arcs File});
+]]>
+</content>
+         <tabTrigger>clusterrouter </tabTrigger>
+    <scope>source.modl</scope>
+    <description> clusterrouter </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetToolBarVisibility(${1:ToolBar}, ${2: Visible Flag});
+]]>
+</content>
+         <tabTrigger>SetToolBarVisibility </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SetToolBarVisibility </description>
+</snippet>

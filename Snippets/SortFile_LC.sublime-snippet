@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SortFile(${1:File}, ${2: Field});
+]]>
+</content>
+         <tabTrigger>sortfile </tabTrigger>
+    <scope>source.modl</scope>
+    <description> sortfile </description>
+</snippet>

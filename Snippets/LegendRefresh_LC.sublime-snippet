@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+LegendRefresh();
+]]>
+</content>
+         <tabTrigger>legendrefresh </tabTrigger>
+    <scope>source.modl</scope>
+    <description> legendrefresh </description>
+</snippet>

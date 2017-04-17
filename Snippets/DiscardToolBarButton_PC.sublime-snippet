@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DiscardToolBarButton(${1:ToolBar}, ${2: Position});
+]]>
+</content>
+         <tabTrigger>DiscardToolBarButton </tabTrigger>
+    <scope>source.modl</scope>
+    <description> DiscardToolBarButton </description>
+</snippet>

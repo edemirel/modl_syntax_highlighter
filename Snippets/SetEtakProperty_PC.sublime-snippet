@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetEtakProperty(${1:Etak Object}, ${2: Attribute}, ${3: Value});
+]]>
+</content>
+         <tabTrigger>SetEtakProperty </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SetEtakProperty </description>
+</snippet>

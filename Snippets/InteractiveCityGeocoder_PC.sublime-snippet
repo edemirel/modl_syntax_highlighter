@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+InteractiveCityGeocoder(${1:Points File}, ${2: Cities Database});
+]]>
+</content>
+         <tabTrigger>InteractiveCityGeocoder </tabTrigger>
+    <scope>source.modl</scope>
+    <description> InteractiveCityGeocoder </description>
+</snippet>

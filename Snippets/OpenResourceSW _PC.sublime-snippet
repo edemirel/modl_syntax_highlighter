@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+OpenResourceSW (${1:Window Name}, ${2: Table}, ${3: Text Field}, ${4: Time Scale}, ${5: Allow ResourceEditing}, ${6: Task Move Macro}, ${7: Show Resource Time Windows}, ${8: Show TaskTime Windows}, ${9: Resource User 1 Field}, ${10: ... Resource User 4 Field});
+]]>
+</content>
+         <tabTrigger>OpenResourceSW  </tabTrigger>
+    <scope>source.modl</scope>
+    <description> OpenResourceSW  </description>
+</snippet>

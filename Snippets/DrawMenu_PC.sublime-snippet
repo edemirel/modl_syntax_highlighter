@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DrawMenu();
+]]>
+</content>
+         <tabTrigger>DrawMenu </tabTrigger>
+    <scope>source.modl</scope>
+    <description> DrawMenu </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+OpenGenericSW (${1:Window Name}, ${2: Table}, ${3: Resource Field}, ${4: Start Field}, ${5: End Field}, ${6: Bar TypeField}, ${7: Text Field}, ${8: Time Scale}, ${9: Show Window}, ${10: Allow Resource Editing}, ${11:Aggregate Resources}, ${12: Allow Reassign}, ${13: Task Move Macro}, ${14: Resource Use});
+]]>
+</content>
+         <tabTrigger>OpenGenericSW  </tabTrigger>
+    <scope>source.modl</scope>
+    <description> OpenGenericSW  </description>
+</snippet>

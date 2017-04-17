@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+UpdateServerTable(${1:Connection ID}, ${2: File}, ${3: {List of Fields}}, ${4: Key Field}, ${5: APPEND});
+]]>
+</content>
+         <tabTrigger>updateservertable </tabTrigger>
+    <scope>source.modl</scope>
+    <description> updateservertable </description>
+</snippet>

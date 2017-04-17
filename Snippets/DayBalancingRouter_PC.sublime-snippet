@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DayBalancingRouter(${1:Vehicle File}, ${2: Links File}, ${3: Parameter File}, ${4: Links Network Arcs File}, ${5:Links Network Access File});
+]]>
+</content>
+         <tabTrigger>DayBalancingRouter </tabTrigger>
+    <scope>source.modl</scope>
+    <description> DayBalancingRouter </description>
+</snippet>

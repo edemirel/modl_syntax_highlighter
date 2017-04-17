@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ShowPopupMenu(${1:Menu}, ${2: Screen X Coord}, ${3: Screen Y Coord});
+]]>
+</content>
+         <tabTrigger>showpopupmenu </tabTrigger>
+    <scope>source.modl</scope>
+    <description> showpopupmenu </description>
+</snippet>

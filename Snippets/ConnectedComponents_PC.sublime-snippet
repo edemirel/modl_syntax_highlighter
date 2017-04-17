@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ConnectedComponents(${1:Links File}, ${2: Output Variable});
+]]>
+</content>
+         <tabTrigger>ConnectedComponents </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ConnectedComponents </description>
+</snippet>

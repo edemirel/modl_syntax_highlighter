@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SaveAllFiles(${1:Object Type}, ${2: "Path"});
+]]>
+</content>
+         <tabTrigger>saveallfiles </tabTrigger>
+    <scope>source.modl</scope>
+    <description> saveallfiles </description>
+</snippet>

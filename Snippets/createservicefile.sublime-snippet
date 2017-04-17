@@ -1,0 +1,15 @@
+<snippet>
+    <content>
+        <![CDATA[
+sVar4 := "${1:FileName}";
+CreateFile(LINKS,@sVar4, 0);
+CreateFileAttribute( @sVar4, FILETYPE, STRING );
+SetFileAttribute( @sVar4, FILETYPE, "SERVICE" );
+RunMacro(@API_FileMacro, "REGISTER", @sVar4 );
+RunMacro(@API_OLEImportTable, @sVar4, "LINKS", "${2:E:\Systems\TMC\DEMIEGE\2016Q1 - Eaton Inbound\RateDB.mdb}", @FileName ,${3:"ALL"},"REPLACE"); 
+]]>
+</content>
+    <tabTrigger>createservicefile</tabTrigger>
+    <scope>source.modl</scope>
+    <description>New Service File</description>
+</snippet>

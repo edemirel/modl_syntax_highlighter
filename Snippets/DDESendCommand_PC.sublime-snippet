@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DDESendCommand(${1:Conversation ID}, ${2: "Command String"}, ${3: TimeOut Seconds});
+]]>
+</content>
+         <tabTrigger>DDESendCommand </tabTrigger>
+    <scope>source.modl</scope>
+    <description> DDESendCommand </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GetViewMode(${1:Output Mode Variable});
+]]>
+</content>
+         <tabTrigger>GetViewMode </tabTrigger>
+    <scope>source.modl</scope>
+    <description> GetViewMode </description>
+</snippet>

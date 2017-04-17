@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+LegendClose(${1:Legend Window Name});
+]]>
+</content>
+         <tabTrigger>legendclose </tabTrigger>
+    <scope>source.modl</scope>
+    <description> legendclose </description>
+</snippet>

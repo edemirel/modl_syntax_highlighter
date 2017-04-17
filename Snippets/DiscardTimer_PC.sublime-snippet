@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DiscardTimer(${1:Timer});
+]]>
+</content>
+         <tabTrigger>DiscardTimer </tabTrigger>
+    <scope>source.modl</scope>
+    <description> DiscardTimer </description>
+</snippet>

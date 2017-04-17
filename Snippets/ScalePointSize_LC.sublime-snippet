@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ScalePointSize(${1:Points File}, ${2: Test Field}, ${3: Lower Bound}, ${4: Upper Bound});
+]]>
+</content>
+         <tabTrigger>scalepointsize </tabTrigger>
+    <scope>source.modl</scope>
+    <description> scalepointsize </description>
+</snippet>

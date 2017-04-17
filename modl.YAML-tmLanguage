@@ -1,0 +1,143 @@
+# [PackageDev] target_format: plist, ext: tmLanguage
+name: MoDL
+scopeName: source.modl
+fileTypes: [ltm]
+uuid: 6e494553-70c6-4e24-adfe-d0fa3ac61bec
+
+patterns:
+# - name: meta.control.modl
+#   begin: \b(if|foreach|while)\b\s\(.+\)(?:\s)*(do|then)*
+#   beginCaptures:
+#     '1': {name: keyword.control.modl}
+#     '2': {name: keyword.control.modl}
+#   end: \b(endif|endwhile|endforeach)\b
+#   endCaptures:
+#     '1': {name: keyword.control.modl}
+#   patterns:
+#   - include: '#double_string'
+#   - include: '#variable_read'
+#   - include: '#magic_words'
+#   # - include: '#variable_assign'
+#   - include: $self
+
+- name: keyword.control.modl
+  match: \b(if|else|Where|where|elseif|Elseif|foreach|call|while|do|then|endif|endwhile|endforeach|in|If|ForEach|Endif|EndIf|While|Then|Else|Foreach|break|continue)\b
+
+- name: keyword.operator.modl
+  match: \b(AND|WHERE|OR|and|where|or)\b
+
+# - comment: to finish loops
+#   name: keyword.control.modl
+#   match: \b(endif|endwhile|endforeach)\b
+
+# - name: entity.name.function.modl
+#   match: \b(\w+)\b(?=\(.+\))
+
+- name: meta.function.modl
+  begin: ([A-Za-z_]+)(?:\()
+  beginCaptures:
+    '1': {name: entity.name.function.modl}
+  end: (\));*
+  patterns:
+  - include: '#double_string'
+  - include: '#variable_read'
+  - include: '#vectors'
+  - include: '#index_read'
+  - include: '#magic_words'
+  - include: '#data_types'
+  # - include: '#variable_assign'
+  - include: $self
+
+- name: comment.line.double-slash.model
+  match: (\/\/.*)
+
+- name: constant.numeric.integer.long.hexadecimal.modl
+  match: \b(?i:(0x\h*)L)
+
+- name: constant.numeric.integer.hexadecimal.modl
+  match: \b(?i:(0x\h*))
+
+- name: constant.numeric.integer.long.octal.modl
+  match: \b(?i:(0[0-7]+)L)
+
+- name: constant.numeric.integer.octal.modl
+  match: \b(0[0-7]+)
+
+- name: constant.numeric.complex.modl
+  match: \b(?i:(((\d+(\.(?=[^a-zA-Z_])\d*)?|(?<=[^0-9a-zA-Z_])\.\d+)(e[\-\+]?\d+)?))J)
+
+- name: constant.numeric.float.modl
+  match: \b(?i:(\d+\.\d*(e[\-\+]?\d+)?))(?=[^a-zA-Z_])
+
+- name: constant.numeric.float.modl
+  match: (?<=[^0-9a-zA-Z_])(?i:(\.\d+(e[\-\+]?\d+)?))
+
+- name: constant.numeric.float.modl
+  match: \b(?i:(\d+e[\-\+]?\d+))
+
+- name: constant.numeric.integer.long.decimal.modl
+  match: \b(?i:([1-9]+[0-9]*|0)L)
+
+- name: constant.numeric.integer.decimal.modl
+  match: \b([1-9]+[0-9]*|0)
+
+
+
+- include: '#variable_read'
+- include: '#variable_read_at'
+- include: '#double_string'
+- include: '#variable_assign'
+- include: '#variable_comparison'
+- include: '#macro_markers'
+- include: '#vectors'
+- include: '#index_read'
+
+
+
+repository:
+  double_string:
+    comment: strings
+    name: string.quoted.double.modl
+    match: (\".*?\")
+
+  variable_read:
+    name: variable.other.modl
+    match: \b(?<=@)(\w+)\b
+
+  variable_read_at:
+    name: variable.parameter.modl
+    match: (@\w+)
+
+  data_types:
+    name: support.function.modl
+    match: \b(BOOL|FLOAT|INTEGER|DOUBLE|LONG|DATETIME|CHAR|NUMERIC|STRING|STRING20|STRING30|Bool|STR30|
+              Float|Integer|Double|Long|Datetime|Char|String|String20|String30|OBJECT|OK|ON|OFF|ok|on|off)\b
+
+  variable_assign:
+    comment: variable assignment with :=
+    name: keyword.operator.modl
+    match: (:=)
+
+  variable_comparison:
+    comment: variable comparisons
+    name: keyword.operator.modl
+    match: (=|<=|>=|>|<|!=)
+
+  magic_words:
+    name: constant.language.modl
+    match: \b(TRUE|FALSE|True|False)\b
+    patterns:
+    - include: '#data_types'
+
+  vectors:
+    name: storage.type.var.modl
+    match: (@?\w+)(?=\.\w+)
+
+  index_read:
+    name: storage.type.var.modl
+    match: (@?\w+)(?=\[\w)
+
+  macro_markers:
+    name: keyword.control.modl
+    match: \b(macro|begin|endmacro|procedure|endprocedure)\b
+

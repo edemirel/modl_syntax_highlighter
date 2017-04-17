@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+HighlightLink(${1:Links File});
+]]>
+</content>
+         <tabTrigger>HighlightLink </tabTrigger>
+    <scope>source.modl</scope>
+    <description> HighlightLink </description>
+</snippet>

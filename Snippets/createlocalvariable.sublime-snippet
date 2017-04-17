@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+        <![CDATA[
+CreateLocalVariable("${1:VariableName}", ${2:InitialValue}, ${3:Type});]]>
+</content>
+    <tabTrigger>createlocalvariable</tabTrigger>
+    <scope>source.modl</scope>
+    <description> Toolkit </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+MergeLinks(${1:Links File}, ${2: Link1 ID}, ${3: Link2 ID}, ${4: Delete Shared Point Flag});
+]]>
+</content>
+         <tabTrigger>MergeLinks </tabTrigger>
+    <scope>source.modl</scope>
+    <description> MergeLinks </description>
+</snippet>

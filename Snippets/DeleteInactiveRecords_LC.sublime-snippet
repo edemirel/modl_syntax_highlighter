@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DeleteInactiveRecords(${1:File});
+]]>
+</content>
+         <tabTrigger>deleteinactiverecords </tabTrigger>
+    <scope>source.modl</scope>
+    <description> deleteinactiverecords </description>
+</snippet>

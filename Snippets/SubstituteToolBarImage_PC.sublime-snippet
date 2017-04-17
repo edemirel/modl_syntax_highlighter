@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SubstituteToolBarImage(${1:Button Image}, ${2: "Bitmap File Name"});
+]]>
+</content>
+         <tabTrigger>SubstituteToolBarImage </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SubstituteToolBarImage </description>
+</snippet>

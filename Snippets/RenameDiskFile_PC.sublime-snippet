@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RenameDiskFile(${1:Source Disk File}, ${2: "Destination Disk File"});
+]]>
+</content>
+         <tabTrigger>RenameDiskFile </tabTrigger>
+    <scope>source.modl</scope>
+    <description> RenameDiskFile </description>
+</snippet>

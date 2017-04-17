@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DeleteLink(${1:Links File}, ${2: Status Message});
+]]>
+</content>
+         <tabTrigger>DeleteLink </tabTrigger>
+    <scope>source.modl</scope>
+    <description> DeleteLink </description>
+</snippet>

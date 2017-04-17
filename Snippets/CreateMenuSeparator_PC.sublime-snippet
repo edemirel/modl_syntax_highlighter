@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CreateMenuSeparator();
+]]>
+</content>
+         <tabTrigger>CreateMenuSeparator </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CreateMenuSeparator </description>
+</snippet>

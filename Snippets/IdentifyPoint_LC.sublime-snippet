@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IdentifyPoint(${1:Points File}, ${2: Status Message}, ${3: Input Point X}, ${4: Input Point Y});
+]]>
+</content>
+         <tabTrigger>identifypoint </tabTrigger>
+    <scope>source.modl</scope>
+    <description> identifypoint </description>
+</snippet>

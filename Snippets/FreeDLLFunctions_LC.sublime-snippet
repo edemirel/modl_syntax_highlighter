@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+FreeDLLFunctions(${1:DLL Name});
+]]>
+</content>
+         <tabTrigger>freedllfunctions </tabTrigger>
+    <scope>source.modl</scope>
+    <description> freedllfunctions </description>
+</snippet>

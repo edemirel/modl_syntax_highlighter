@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CloseEtakMaps(${1:<Etak MapAccess File>});
+]]>
+</content>
+         <tabTrigger>CloseEtakMaps </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CloseEtakMaps </description>
+</snippet>

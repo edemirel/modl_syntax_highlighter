@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SaveMacroKeys(${1:Disk File});
+]]>
+</content>
+         <tabTrigger>savemacrokeys </tabTrigger>
+    <scope>source.modl</scope>
+    <description> savemacrokeys </description>
+</snippet>

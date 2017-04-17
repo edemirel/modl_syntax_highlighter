@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ShowTotals();
+]]>
+</content>
+         <tabTrigger>ShowTotals </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ShowTotals </description>
+</snippet>

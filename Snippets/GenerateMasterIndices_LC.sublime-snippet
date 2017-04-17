@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GenerateMasterIndices(${1:Points Set}, ${2: Links Set});
+]]>
+</content>
+         <tabTrigger>generatemasterindices </tabTrigger>
+    <scope>source.modl</scope>
+    <description> generatemasterindices </description>
+</snippet>

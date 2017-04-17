@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DeclareDLLFunction(${1:DLL Name}, ${2: Function Name}, ${3: Compiler Type}, ${4: Return Type}, ${5: ArgumentList});
+]]>
+</content>
+         <tabTrigger>declaredllfunction </tabTrigger>
+    <scope>source.modl</scope>
+    <description> declaredllfunction </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+TransferRecordValue(${1:Source Table}, ${2: Source Join Field}, ${3: Destination Table}, ${4: DestinationJoin Field}, ${5: Update Flag}, ${6: Create Flag}, ${7: {List of fields});
+]]>
+</content>
+         <tabTrigger>transferrecordvalue </tabTrigger>
+    <scope>source.modl</scope>
+    <description> transferrecordvalue </description>
+</snippet>

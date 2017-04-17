@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CAPSMapIdentifyPolygon();
+]]>
+</content>
+         <tabTrigger>CAPSMapIdentifyPolygon </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CAPSMapIdentifyPolygon </description>
+</snippet>

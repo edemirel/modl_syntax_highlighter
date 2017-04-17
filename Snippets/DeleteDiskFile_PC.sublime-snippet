@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DeleteDiskFile(${1:disk file"});
+]]>
+</content>
+         <tabTrigger>DeleteDiskFile </tabTrigger>
+    <scope>source.modl</scope>
+    <description> DeleteDiskFile </description>
+</snippet>

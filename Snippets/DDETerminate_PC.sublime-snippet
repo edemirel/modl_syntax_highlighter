@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DDETerminate(${1:Conversation ID});
+]]>
+</content>
+         <tabTrigger>DDETerminate </tabTrigger>
+    <scope>source.modl</scope>
+    <description> DDETerminate </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DeleteAllMacroKeys();
+]]>
+</content>
+         <tabTrigger>DeleteAllMacroKeys </tabTrigger>
+    <scope>source.modl</scope>
+    <description> DeleteAllMacroKeys </description>
+</snippet>

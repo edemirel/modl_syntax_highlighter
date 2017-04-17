@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ConvertMapToNetwork(${1:Map File}, ${2: Map SEGID}, ${3: Points File}, ${4: Links File});
+]]>
+</content>
+         <tabTrigger>ConvertMapToNetwork </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ConvertMapToNetwork </description>
+</snippet>

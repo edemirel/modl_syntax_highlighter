@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IsNetworkPlanar(${1:Links File}, ${2: Output Variable});
+]]>
+</content>
+         <tabTrigger>isnetworkplanar </tabTrigger>
+    <scope>source.modl</scope>
+    <description> isnetworkplanar </description>
+</snippet>

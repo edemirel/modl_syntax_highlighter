@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RunMacro(@DebugMacro);
+]]>
+</content>
+    <tabTrigger>pause</tabTrigger>
+    <scope>source.modl</scope>
+    <description>Snippet</description>
+</snippet>

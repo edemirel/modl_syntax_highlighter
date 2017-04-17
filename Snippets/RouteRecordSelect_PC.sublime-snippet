@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RouteRecordSelect(${1:Route Card}, ${2: Link ID}, ${3: Route Action}, ${4: Append to Selection}, ${5: RefreshCard});
+]]>
+</content>
+         <tabTrigger>RouteRecordSelect </tabTrigger>
+    <scope>source.modl</scope>
+    <description> RouteRecordSelect </description>
+</snippet>

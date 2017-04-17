@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+EtakInternetAccountInfo(${1:User Name}, ${2: Password}, ${3: Etak TCP/IP Address}, ${4: Etak Port}, ${5:Expiration Date}, ${6: Account Total}, ${7: Account Limit});
+]]>
+</content>
+         <tabTrigger>etakinternetaccountinfo </tabTrigger>
+    <scope>source.modl</scope>
+    <description> etakinternetaccountinfo </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IdentifyVehicle(${1:Vehicle File}, ${2: Status Message}, ${3: Input Point X}, ${4: Input Point Y});
+]]>
+</content>
+         <tabTrigger>identifyvehicle </tabTrigger>
+    <scope>source.modl</scope>
+    <description> identifyvehicle </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CreateVoronoiNetwork(${1:Points File}, ${2: Output Points File}, ${3: Output Links File}, ${4: Scaling Factor});
+]]>
+</content>
+         <tabTrigger>createvoronoinetwork </tabTrigger>
+    <scope>source.modl</scope>
+    <description> createvoronoinetwork </description>
+</snippet>

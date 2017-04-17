@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+PrepareDistanceMatrix (${1:Points File}, ${2:Parameter File}, ${3: Links Network Arces File}, ${4: NetworkPoints File}, ${5: Archive File});
+]]>
+</content>
+         <tabTrigger>PrepareDistanceMatrix  </tabTrigger>
+    <scope>source.modl</scope>
+    <description> PrepareDistanceMatrix  </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RunMacro(${1:Disk Macro File}, ${2: [[Arg1]}, ${3: ...}, ${4:[Arg19]]});
+]]>
+</content>
+         <tabTrigger>runmacro </tabTrigger>
+    <scope>source.modl</scope>
+    <description> runmacro </description>
+</snippet>

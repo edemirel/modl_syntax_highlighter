@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ClipboardWait();
+]]>
+</content>
+         <tabTrigger>ClipboardWait </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ClipboardWait </description>
+</snippet>

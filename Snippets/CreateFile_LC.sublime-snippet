@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CreateFile(${1:Object Type}, ${2: File Name}, ${3: Number of Records});
+]]>
+</content>
+         <tabTrigger>createfile </tabTrigger>
+    <scope>source.modl</scope>
+    <description> createfile </description>
+</snippet>

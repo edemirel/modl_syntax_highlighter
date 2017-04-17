@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetRightClickMacro(${1:Disk Macro File}, ${2: [[Arg1]}, ${3: . . .}, ${4: [Arg15]]});
+]]>
+</content>
+         <tabTrigger>setrightclickmacro </tabTrigger>
+    <scope>source.modl</scope>
+    <description> setrightclickmacro </description>
+</snippet>

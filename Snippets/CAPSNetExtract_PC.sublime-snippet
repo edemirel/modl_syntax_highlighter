@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CAPSNetExtract(${1:CAPSNet Source}, ${2: "CAPSNet Extraction"});
+]]>
+</content>
+         <tabTrigger>CAPSNetExtract </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CAPSNetExtract </description>
+</snippet>

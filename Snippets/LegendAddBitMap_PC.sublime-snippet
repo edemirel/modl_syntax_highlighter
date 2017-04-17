@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+LegendAddBitMap(${1:BitMap File Name});
+]]>
+</content>
+         <tabTrigger>LegendAddBitMap </tabTrigger>
+    <scope>source.modl</scope>
+    <description> LegendAddBitMap </description>
+</snippet>

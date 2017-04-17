@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ODTableLookUp(${1:Disk Table File}, ${2: Links File}, ${3: Source Link From Field}, ${4: Source Link ToField}, ${5: Target Link Value Field});
+]]>
+</content>
+         <tabTrigger>ODTableLookUp </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ODTableLookUp </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RouteCardClose(${1:Route Card});
+]]>
+</content>
+         <tabTrigger>routecardclose </tabTrigger>
+    <scope>source.modl</scope>
+    <description> routecardclose </description>
+</snippet>

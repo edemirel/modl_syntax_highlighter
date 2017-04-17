@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CreateDirectory(${1:Directory});
+]]>
+</content>
+         <tabTrigger>CreateDirectory </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CreateDirectory </description>
+</snippet>

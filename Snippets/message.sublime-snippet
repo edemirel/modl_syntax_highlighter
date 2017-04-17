@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+Message("${1:TitleName}", "${2:Message}", "${3:OutputVariable}", "${4:ButtonType}");
+]]>
+</content>
+    <tabTrigger>message</tabTrigger>
+    <scope>source.modl</scope>
+    <description>Tool</description>
+</snippet>

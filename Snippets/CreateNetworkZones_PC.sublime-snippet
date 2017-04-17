@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CreateNetworkZones(${1:Links File}, ${2: Zone File});
+]]>
+</content>
+         <tabTrigger>CreateNetworkZones </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CreateNetworkZones </description>
+</snippet>

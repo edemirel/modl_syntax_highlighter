@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+MoveLink(${1:Links File}, ${2: PICK Status Message}, ${3: MOVE Status Message});
+]]>
+</content>
+         <tabTrigger>movelink </tabTrigger>
+    <scope>source.modl</scope>
+    <description> movelink </description>
+</snippet>

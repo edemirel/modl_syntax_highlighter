@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ShowGrandTotalsRecord(${1:Row Position}, ${2: Label}, ${3: Label Width}, ${4: Value Width}, ${5: ValuePrecision}, ${6: Left Justification Flag});
+]]>
+</content>
+         <tabTrigger>ShowGrandTotalsRecord </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ShowGrandTotalsRecord </description>
+</snippet>

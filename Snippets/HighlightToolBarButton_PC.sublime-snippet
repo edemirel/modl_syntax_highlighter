@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+HighlightToolBarButton(${1:Toolbar}, ${2: Position}, ${3: Highlight Status});
+]]>
+</content>
+         <tabTrigger>HighlightToolBarButton </tabTrigger>
+    <scope>source.modl</scope>
+    <description> HighlightToolBarButton </description>
+</snippet>

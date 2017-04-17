@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ComputeProductTotal(${1:Master File}, ${2: Product Specific File}, ${3: Product File}, ${4: Input Field}, ${5: OutputField}, ${6: Field Alias Table});
+]]>
+</content>
+         <tabTrigger>computeproducttotal </tabTrigger>
+    <scope>source.modl</scope>
+    <description> computeproducttotal </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DestroyProgressBar();
+]]>
+</content>
+         <tabTrigger>destroyprogressbar </tabTrigger>
+    <scope>source.modl</scope>
+    <description> destroyprogressbar </description>
+</snippet>

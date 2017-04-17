@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+TabBarSetStyle(${1:Docking Position}, ${2: Tab Orientation}, ${3: Tab Width Style}, ${4: Tab Style}, ${5: Multi Row}, ${6:Enabled});
+]]>
+</content>
+         <tabTrigger>tabbarsetstyle </tabTrigger>
+    <scope>source.modl</scope>
+    <description> tabbarsetstyle </description>
+</snippet>

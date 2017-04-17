@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GenerateLinksToPoints(${1:From Points File}, ${2: To Points File}, ${3: Output Links File}, ${4: #Links PerPoint}, ${5: Distance Measure});
+]]>
+</content>
+         <tabTrigger>GenerateLinksToPoints </tabTrigger>
+    <scope>source.modl</scope>
+    <description> GenerateLinksToPoints </description>
+</snippet>

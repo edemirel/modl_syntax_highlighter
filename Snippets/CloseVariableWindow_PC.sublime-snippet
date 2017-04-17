@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CloseVariableWindow(${1:Variable Group});
+]]>
+</content>
+         <tabTrigger>CloseVariableWindow </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CloseVariableWindow </description>
+</snippet>

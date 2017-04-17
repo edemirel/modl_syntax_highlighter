@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RunMacro("%RA_Module%\RAXRATE", RATE, MENU, RAXCARRR, @RA_DirectRequestFile, DIRECT);
+]]>
+</content>
+    <tabTrigger>raxrate</tabTrigger>
+    <scope>source.modl</scope>
+    <description>Direct Rating</description>
+</snippet>

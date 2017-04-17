@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+InteractiveEtakGeocoder(${1:Points File});
+]]>
+</content>
+         <tabTrigger>interactiveetakgeocoder </tabTrigger>
+    <scope>source.modl</scope>
+    <description> interactiveetakgeocoder </description>
+</snippet>

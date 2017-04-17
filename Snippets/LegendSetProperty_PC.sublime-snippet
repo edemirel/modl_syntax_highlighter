@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+LegendSetProperty(${1:Legend Window Name}, ${2: Legend Property}, ${3: Property Value});
+]]>
+</content>
+         <tabTrigger>LegendSetProperty </tabTrigger>
+    <scope>source.modl</scope>
+    <description> LegendSetProperty </description>
+</snippet>

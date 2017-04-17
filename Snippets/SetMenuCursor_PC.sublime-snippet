@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetMenuCursor(${1:Menu}, ${2: Menu Branch}, ${3: Insertion Mode});
+]]>
+</content>
+         <tabTrigger>SetMenuCursor </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SetMenuCursor </description>
+</snippet>

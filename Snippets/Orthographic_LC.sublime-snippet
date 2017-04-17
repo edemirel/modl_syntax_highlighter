@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+Orthographic(${1:Map/Points File}, ${2: Input X Field}, ${3: Input Y Field}, ${4: Center Longitude}, ${5: CenterLatitude}, ${6: Output X Field}, ${7: Output Y Field}, ${8: Transform Direction});
+]]>
+</content>
+         <tabTrigger>orthographic </tabTrigger>
+    <scope>source.modl</scope>
+    <description> orthographic </description>
+</snippet>

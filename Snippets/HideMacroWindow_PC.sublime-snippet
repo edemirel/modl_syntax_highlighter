@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+HideMacroWindow();
+]]>
+</content>
+         <tabTrigger>HideMacroWindow </tabTrigger>
+    <scope>source.modl</scope>
+    <description> HideMacroWindow </description>
+</snippet>

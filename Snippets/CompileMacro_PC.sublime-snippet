@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CompileMacro(${1:Disk Macro File});
+]]>
+</content>
+         <tabTrigger>CompileMacro </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CompileMacro </description>
+</snippet>

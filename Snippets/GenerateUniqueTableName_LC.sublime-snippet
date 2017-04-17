@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GenerateUniqueTableName(${1:Initial String}, ${2: Output Variable});
+]]>
+</content>
+         <tabTrigger>generateuniquetablename </tabTrigger>
+    <scope>source.modl</scope>
+    <description> generateuniquetablename </description>
+</snippet>

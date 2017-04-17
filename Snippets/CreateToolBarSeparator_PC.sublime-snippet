@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CreateToolBarSeparator(${1:ToolBar}, ${2: Position});
+]]>
+</content>
+         <tabTrigger>CreateToolBarSeparator </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CreateToolBarSeparator </description>
+</snippet>

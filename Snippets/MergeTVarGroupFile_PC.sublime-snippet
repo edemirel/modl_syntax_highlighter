@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+MergeTVarGroupFile(${1:Variable Group}, ${2: Variable Group File}, ${3: Update Values}, ${4: ChangeGroups});
+]]>
+</content>
+         <tabTrigger>MergeTVarGroupFile </tabTrigger>
+    <scope>source.modl</scope>
+    <description> MergeTVarGroupFile </description>
+</snippet>

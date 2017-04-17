@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+MinimumSpanningTree(${1:Links File});
+]]>
+</content>
+         <tabTrigger>MinimumSpanningTree </tabTrigger>
+    <scope>source.modl</scope>
+    <description> MinimumSpanningTree </description>
+</snippet>

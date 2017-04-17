@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+LegendOpen(${1:Legend File});
+]]>
+</content>
+         <tabTrigger>LegendOpen </tabTrigger>
+    <scope>source.modl</scope>
+    <description> LegendOpen </description>
+</snippet>

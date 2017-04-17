@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CloseScheduleWindow(${1:Window Name});
+]]>
+</content>
+         <tabTrigger>CloseScheduleWindow </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CloseScheduleWindow </description>
+</snippet>

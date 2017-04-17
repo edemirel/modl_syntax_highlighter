@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CAPSNetMinimum(${1:Points File}, ${2: "CAPSNet Extraction"}, ${3: "Disk Output Points"}, ${4: "Disk OutputLinks"}, ${5: Flag});
+]]>
+</content>
+         <tabTrigger>capsnetminimum </tabTrigger>
+    <scope>source.modl</scope>
+    <description> capsnetminimum </description>
+</snippet>

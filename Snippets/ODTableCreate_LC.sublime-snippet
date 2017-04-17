@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ODTableCreate(${1:Disk Links File}, ${2: "Disk Table File"}, ${3: Table Lookup Field});
+]]>
+</content>
+         <tabTrigger>odtablecreate </tabTrigger>
+    <scope>source.modl</scope>
+    <description> odtablecreate </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CreateRecord(${1:File}, ${2: Record Index}, ${3: Number of Records});
+]]>
+</content>
+         <tabTrigger>CreateRecord </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CreateRecord </description>
+</snippet>

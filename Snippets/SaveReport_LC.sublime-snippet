@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SaveReport(${1:Discard Saved Data}, ${2: Report File Name}, ${3: Database File Name}, ${4: Output File});
+]]>
+</content>
+         <tabTrigger>savereport </tabTrigger>
+    <scope>source.modl</scope>
+    <description> savereport </description>
+</snippet>

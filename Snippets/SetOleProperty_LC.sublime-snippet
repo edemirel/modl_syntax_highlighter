@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetOleProperty(${1:OLE Object}, ${2: Property Name}, ${3: New Value});
+]]>
+</content>
+         <tabTrigger>setoleproperty </tabTrigger>
+    <scope>source.modl</scope>
+    <description> setoleproperty </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+BuildServerQuery(${1:ConnectionID}, ${2: "Partial SQL Query"});
+]]>
+</content>
+         <tabTrigger>buildserverquery </tabTrigger>
+    <scope>source.modl</scope>
+    <description> buildserverquery </description>
+</snippet>

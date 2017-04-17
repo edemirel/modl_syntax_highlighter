@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DDEInitiate(${1:Application Name}, ${2: Conversation Topic}, ${3: Conversation ID});
+]]>
+</content>
+         <tabTrigger>DDEInitiate </tabTrigger>
+    <scope>source.modl</scope>
+    <description> DDEInitiate </description>
+</snippet>

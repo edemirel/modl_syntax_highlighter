@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetFileAttribute(${1:File}, ${2: Attribute}, ${3: Attribute Value});
+]]>
+</content>
+         <tabTrigger>SetFileAttribute </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SetFileAttribute </description>
+</snippet>

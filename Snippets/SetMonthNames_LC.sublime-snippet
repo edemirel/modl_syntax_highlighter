@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetMonthNames(${1:Name Type}, ${2: 1st Month}, ${3: 2nd Month}, ${4: 3rd Month}, ${5: ...}, ${6:12th Month});
+]]>
+</content>
+         <tabTrigger>setmonthnames </tabTrigger>
+    <scope>source.modl</scope>
+    <description> setmonthnames </description>
+</snippet>

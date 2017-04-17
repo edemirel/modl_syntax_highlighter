@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CloseRasterMap();
+]]>
+</content>
+         <tabTrigger>closerastermap </tabTrigger>
+    <scope>source.modl</scope>
+    <description> closerastermap </description>
+</snippet>

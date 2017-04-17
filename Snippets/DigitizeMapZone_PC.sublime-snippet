@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DigitizeMapZone(${1:Zone File}, ${2: Start-Status Message}, ${3: End-Status Message});
+]]>
+</content>
+         <tabTrigger>DigitizeMapZone </tabTrigger>
+    <scope>source.modl</scope>
+    <description> DigitizeMapZone </description>
+</snippet>

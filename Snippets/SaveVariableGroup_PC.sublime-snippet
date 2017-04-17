@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SaveVariableGroup(${1:Variable Group}, ${2: "Disk File"});
+]]>
+</content>
+         <tabTrigger>SaveVariableGroup </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SaveVariableGroup </description>
+</snippet>

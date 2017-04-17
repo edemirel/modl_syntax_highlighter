@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DiscardAllMenus();
+]]>
+</content>
+         <tabTrigger>DiscardAllMenus </tabTrigger>
+    <scope>source.modl</scope>
+    <description> DiscardAllMenus </description>
+</snippet>

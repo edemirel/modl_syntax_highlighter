@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CAPSMapSetMapFlags(${1:CAPS Map Feature}, ${2: Show Feature}, ${3: Show Label});
+]]>
+</content>
+         <tabTrigger>CAPSMapSetMapFlags </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CAPSMapSetMapFlags </description>
+</snippet>

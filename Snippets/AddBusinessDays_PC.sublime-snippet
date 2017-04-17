@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+AddBusinessDays(${1:File}, ${2: Start Date}, ${3: Number of Days}, ${4: Holiday Set File}, ${5: Business DayStart}, ${6: Business Day End}, ${7: Output Date});
+]]>
+</content>
+         <tabTrigger>AddBusinessDays </tabTrigger>
+    <scope>source.modl</scope>
+    <description> AddBusinessDays </description>
+</snippet>

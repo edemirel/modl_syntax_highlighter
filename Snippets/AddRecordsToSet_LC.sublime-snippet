@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+AddRecordsToSet(${1:File}, ${2: Field}, ${3: Set File});
+]]>
+</content>
+         <tabTrigger>addrecordstoset </tabTrigger>
+    <scope>source.modl</scope>
+    <description> addrecordstoset </description>
+</snippet>

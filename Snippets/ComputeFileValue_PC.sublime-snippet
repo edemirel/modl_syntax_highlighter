@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ComputeFileValue(${1:File}, ${2: Field}, ${3: Action}, ${4: Output Variable});
+]]>
+</content>
+         <tabTrigger>ComputeFileValue </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ComputeFileValue </description>
+</snippet>

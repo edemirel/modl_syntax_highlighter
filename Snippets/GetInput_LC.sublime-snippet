@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GetInput(${1:Title Bar Message}, ${2: Output Variable}, ${3: Password Flag});
+]]>
+</content>
+         <tabTrigger>getinput </tabTrigger>
+    <scope>source.modl</scope>
+    <description> getinput </description>
+</snippet>

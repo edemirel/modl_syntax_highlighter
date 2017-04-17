@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GeneralizedMinCostFlow(${1:Links File}, ${2: Objective Variable}, ${3: Field Name Alias Table});
+]]>
+</content>
+         <tabTrigger>generalizedmincostflow </tabTrigger>
+    <scope>source.modl</scope>
+    <description> generalizedmincostflow </description>
+</snippet>

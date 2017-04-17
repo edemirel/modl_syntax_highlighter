@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SaveTotals(${1:Disk File}, ${2: Append Flag});
+]]>
+</content>
+         <tabTrigger>SaveTotals </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SaveTotals </description>
+</snippet>

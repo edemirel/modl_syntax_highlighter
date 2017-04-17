@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetupLinkIndices(${1:Links File});
+]]>
+</content>
+         <tabTrigger>setuplinkindices </tabTrigger>
+    <scope>source.modl</scope>
+    <description> setuplinkindices </description>
+</snippet>

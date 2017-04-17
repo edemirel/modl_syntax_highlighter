@@ -1,0 +1,17 @@
+<snippet>
+    <content>
+        <![CDATA[
+sVar4 := "${1:FileName}";
+CreateFile(LINKS, @sVar4, 0);
+CreateFileAttribute(@sVar4, FILETYPE, String);
+SetFileAttribute(@sVar4, FILETYPE, "RATES");
+CreateFileAttribute(@sVar4, RatingLogic, String);
+SetFileAttribute(@sVar4, RatingLogic, " LANEBASED");
+RunMacro(@API_FileMacro, "REGISTER", @sVar4);
+RunMacro(@API_OLEImportTable, @sVar4, "LINKS", "${2:E:\Systems\TMC\DEMIEGE\2016Q1 - Eaton Inbound\Completed Files\Rate Imports\TLRates.xls}", @sVar4, ${3:"ALL"}, "REPLACE"); 
+]]>
+</content>
+    <tabTrigger>createratefile</tabTrigger>
+    <scope>source.modl</scope>
+    <description>New Lane-based Rate File</description>
+</snippet>

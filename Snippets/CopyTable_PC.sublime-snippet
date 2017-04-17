@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CopyTable(${1:Source Table}, ${2: Destination Table}, ${3: Copy Data}, ${4: Copy Attributes}, ${5: Copy Relations});
+]]>
+</content>
+         <tabTrigger>CopyTable </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CopyTable </description>
+</snippet>

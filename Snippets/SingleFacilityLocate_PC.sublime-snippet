@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SingleFacilityLocate(${1:Demand Points}, ${2: Facility Points}, ${3: Facility ID}, ${4: Distance Measure}, ${5: AliasFile});
+]]>
+</content>
+         <tabTrigger>SingleFacilityLocate </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SingleFacilityLocate </description>
+</snippet>

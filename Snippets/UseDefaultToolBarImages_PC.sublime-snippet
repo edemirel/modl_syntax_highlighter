@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+UseDefaultToolBarImages();
+]]>
+</content>
+         <tabTrigger>UseDefaultToolBarImages </tabTrigger>
+    <scope>source.modl</scope>
+    <description> UseDefaultToolBarImages </description>
+</snippet>

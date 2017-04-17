@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DeletePoint(${1:Points File}, ${2: Status Message});
+]]>
+</content>
+         <tabTrigger>deletepoint </tabTrigger>
+    <scope>source.modl</scope>
+    <description> deletepoint </description>
+</snippet>

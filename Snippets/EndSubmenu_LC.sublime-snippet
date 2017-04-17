@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+EndSubmenu();
+]]>
+</content>
+         <tabTrigger>endsubmenu </tabTrigger>
+    <scope>source.modl</scope>
+    <description> endsubmenu </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IdentifyEtakArtery();
+]]>
+</content>
+         <tabTrigger>IdentifyEtakArtery </tabTrigger>
+    <scope>source.modl</scope>
+    <description> IdentifyEtakArtery </description>
+</snippet>

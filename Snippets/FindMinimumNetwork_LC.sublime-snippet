@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+FindMinimumNetwork(${1:Links File}, ${2: Links Field}, ${3: Links Output Field}, ${4: Points Output Field});
+]]>
+</content>
+         <tabTrigger>findminimumnetwork </tabTrigger>
+    <scope>source.modl</scope>
+    <description> findminimumnetwork </description>
+</snippet>

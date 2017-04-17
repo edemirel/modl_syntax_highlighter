@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IsDirectory(${1:Directory}, ${2: Output Variable});
+]]>
+</content>
+         <tabTrigger>IsDirectory </tabTrigger>
+    <scope>source.modl</scope>
+    <description> IsDirectory </description>
+</snippet>

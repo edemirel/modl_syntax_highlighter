@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ComputeODNetworkPath(${1:O-D Links File}, ${2: Network Links File}, ${3: O-D Links Output Field}, ${4:Network Links Input Field});
+]]>
+</content>
+         <tabTrigger>computeodnetworkpath </tabTrigger>
+    <scope>source.modl</scope>
+    <description> computeodnetworkpath </description>
+</snippet>

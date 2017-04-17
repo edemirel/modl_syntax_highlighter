@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IsToolBar(${1:ToolBar}, ${2: Return Variable});
+]]>
+</content>
+         <tabTrigger>IsToolBar </tabTrigger>
+    <scope>source.modl</scope>
+    <description> IsToolBar </description>
+</snippet>

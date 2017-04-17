@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IsLegendWindow(${1:Legend Window Name}, ${2: Output Variable});
+]]>
+</content>
+         <tabTrigger>IsLegendWindow </tabTrigger>
+    <scope>source.modl</scope>
+    <description> IsLegendWindow </description>
+</snippet>

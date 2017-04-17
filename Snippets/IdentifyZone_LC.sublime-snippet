@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IdentifyZone(${1:Zone File}, ${2: Status Message}, ${3: Input Point X}, ${4: Input Point Y});
+]]>
+</content>
+         <tabTrigger>identifyzone </tabTrigger>
+    <scope>source.modl</scope>
+    <description> identifyzone </description>
+</snippet>

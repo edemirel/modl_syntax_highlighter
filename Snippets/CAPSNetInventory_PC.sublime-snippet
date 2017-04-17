@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CAPSNetInventory(${1:CAPSNet Extraction}, ${2: "Inventory Disk File"});
+]]>
+</content>
+         <tabTrigger>CAPSNetInventory </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CAPSNetInventory </description>
+</snippet>

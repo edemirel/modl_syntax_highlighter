@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetSectionProperty(${1:Property Name}, ${2: Property Value});
+]]>
+</content>
+         <tabTrigger>SetSectionProperty </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SetSectionProperty </description>
+</snippet>

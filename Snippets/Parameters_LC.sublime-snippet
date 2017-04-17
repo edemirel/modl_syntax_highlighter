@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+Parameters(${1:Variable Name}, ${2: . . .});
+]]>
+</content>
+         <tabTrigger>parameters </tabTrigger>
+    <scope>source.modl</scope>
+    <description> parameters </description>
+</snippet>

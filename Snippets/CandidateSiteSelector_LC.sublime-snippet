@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CandidateSiteSelector(${1:Candidate Set}, ${2: Demand Set}, ${3: Lane Set}, ${4: Unmet Demand Penalty}, ${5:Solver Param File}, ${6: Alias File});
+]]>
+</content>
+         <tabTrigger>candidatesiteselector </tabTrigger>
+    <scope>source.modl</scope>
+    <description> candidatesiteselector </description>
+</snippet>

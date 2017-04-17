@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GetBusinessDays(${1:File}, ${2: Start Date}, ${3: End Date}, ${4: Holiday Set File}, ${5: Business Day Start}, ${6:Business Day End}, ${7: Output Date});
+]]>
+</content>
+         <tabTrigger>GetBusinessDays </tabTrigger>
+    <scope>source.modl</scope>
+    <description> GetBusinessDays </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CompileAllMacros(${1:Directory}, ${2: Flag});
+]]>
+</content>
+         <tabTrigger>CompileAllMacros </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CompileAllMacros </description>
+</snippet>

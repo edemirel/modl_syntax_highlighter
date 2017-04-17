@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+InsertPointIntoAggregate(${1:Input Points File}, ${2: Aggregate Points File}, ${3: Point ID}, ${4: AggregatePoint ID}, ${5: "Logical Expression"}, ${6: Cluster Field});
+]]>
+</content>
+         <tabTrigger>InsertPointIntoAggregate </tabTrigger>
+    <scope>source.modl</scope>
+    <description> InsertPointIntoAggregate </description>
+</snippet>

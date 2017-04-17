@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+FreeOleObject(${1:OLE Object});
+]]>
+</content>
+         <tabTrigger>freeoleobject </tabTrigger>
+    <scope>source.modl</scope>
+    <description> freeoleobject </description>
+</snippet>

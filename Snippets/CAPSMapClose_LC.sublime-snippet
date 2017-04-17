@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CAPSMapClose(${1:CAPS Map File});
+]]>
+</content>
+         <tabTrigger>capsmapclose </tabTrigger>
+    <scope>source.modl</scope>
+    <description> capsmapclose </description>
+</snippet>

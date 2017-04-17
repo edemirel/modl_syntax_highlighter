@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DigitizeLink(${1:Links File}, ${2: FROM Status Message}, ${3: TO Status Message});
+]]>
+</content>
+         <tabTrigger>digitizelink </tabTrigger>
+    <scope>source.modl</scope>
+    <description> digitizelink </description>
+</snippet>

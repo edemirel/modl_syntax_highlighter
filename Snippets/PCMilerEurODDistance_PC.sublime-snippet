@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+PCMilerEurODDistance(${1:File Name }, ${2:Origin Field }, ${3:Destination Field }, ${4:Output Distance Field}, ${5:Output Time Field}, ${6: Calculation Method}, ${7: Units});
+]]>
+</content>
+         <tabTrigger>PCMilerEurODDistance </tabTrigger>
+    <scope>source.modl</scope>
+    <description> PCMilerEurODDistance </description>
+</snippet>

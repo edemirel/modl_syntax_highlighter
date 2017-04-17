@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GetTableList(${1:Output File});
+]]>
+</content>
+         <tabTrigger>GetTableList </tabTrigger>
+    <scope>source.modl</scope>
+    <description> GetTableList </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+AggregatePoints(${1:Input Points File}, ${2: Output Points File}, ${3: "Logical Expression"}, ${4: Append Flag}, ${5:Cluster Field});
+]]>
+</content>
+         <tabTrigger>AggregatePoints </tabTrigger>
+    <scope>source.modl</scope>
+    <description> AggregatePoints </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GetMouseClick(${1:Status Message}, ${2: X Coordinate Variable}, ${3: Y Coordinate Variable}, ${4: OutputVariable});
+]]>
+</content>
+         <tabTrigger>GetMouseClick </tabTrigger>
+    <scope>source.modl</scope>
+    <description> GetMouseClick </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+OpenRasterMap(${1:File Path});
+]]>
+</content>
+         <tabTrigger>OpenRasterMap </tabTrigger>
+    <scope>source.modl</scope>
+    <description> OpenRasterMap </description>
+</snippet>

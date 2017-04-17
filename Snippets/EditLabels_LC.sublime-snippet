@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+EditLabels(${1:Label File});
+]]>
+</content>
+         <tabTrigger>editlabels </tabTrigger>
+    <scope>source.modl</scope>
+    <description> editlabels </description>
+</snippet>

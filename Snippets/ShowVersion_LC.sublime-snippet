@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ShowVersion();
+]]>
+</content>
+         <tabTrigger>showversion </tabTrigger>
+    <scope>source.modl</scope>
+    <description> showversion </description>
+</snippet>

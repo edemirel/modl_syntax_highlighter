@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SelectFile(${1:Initial Path}, ${2: Description}, ${3: "Filter"}, ${4: Title}, ${5: Output Variable}, ${6: Multiple Selection Flag}, ${7:Box Type}, ${8: Initial Selection});
+]]>
+</content>
+         <tabTrigger>selectfile </tabTrigger>
+    <scope>source.modl</scope>
+    <description> selectfile </description>
+</snippet>

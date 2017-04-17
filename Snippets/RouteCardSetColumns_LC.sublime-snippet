@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RouteCardSetColumns(${1:Parameter File});
+]]>
+</content>
+         <tabTrigger>routecardsetcolumns </tabTrigger>
+    <scope>source.modl</scope>
+    <description> routecardsetcolumns </description>
+</snippet>

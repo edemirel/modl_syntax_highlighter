@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+EnableMenuItem(${1:Enable Flag});
+]]>
+</content>
+         <tabTrigger>enablemenuitem </tabTrigger>
+    <scope>source.modl</scope>
+    <description> enablemenuitem </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CAPSMapIdentifyPoint();
+]]>
+</content>
+         <tabTrigger>CAPSMapIdentifyPoint </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CAPSMapIdentifyPoint </description>
+</snippet>

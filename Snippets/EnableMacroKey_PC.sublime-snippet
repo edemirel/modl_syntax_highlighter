@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+EnableMacroKey(${1:Keys}, ${2: Enable Flag});
+]]>
+</content>
+         <tabTrigger>EnableMacroKey </tabTrigger>
+    <scope>source.modl</scope>
+    <description> EnableMacroKey </description>
+</snippet>

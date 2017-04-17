@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetAggregateRules(${1:Points Or Links File}, ${2: {List of Field Names}}, ${3: Build Rule}, ${4: Continue Rule}, ${5:Continue Value});
+]]>
+</content>
+         <tabTrigger>SetAggregateRules </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SetAggregateRules </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GenerateUniqueFieldName(${1:File Type }, ${2:Initial String}, ${3: Output Variable});
+]]>
+</content>
+         <tabTrigger>generateuniquefieldname </tabTrigger>
+    <scope>source.modl</scope>
+    <description> generateuniquefieldname </description>
+</snippet>

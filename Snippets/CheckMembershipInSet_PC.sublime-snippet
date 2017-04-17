@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CheckMembershipInSet(${1:File}, ${2: Set File});
+]]>
+</content>
+         <tabTrigger>CheckMembershipInSet </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CheckMembershipInSet </description>
+</snippet>

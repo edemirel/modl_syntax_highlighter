@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetMacroKey(${1:Keys}, ${2: Macro}, ${3: [Macro Arguments]});
+]]>
+</content>
+         <tabTrigger>SetMacroKey </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SetMacroKey </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GenerateLinksToNetwork(${1:From Points File}, ${2: To Links File}, ${3: Output Links File}, ${4: #To LinksPer From Point});
+]]>
+</content>
+         <tabTrigger>generatelinkstonetwork </tabTrigger>
+    <scope>source.modl</scope>
+    <description> generatelinkstonetwork </description>
+</snippet>

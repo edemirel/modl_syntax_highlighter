@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ParseFileName(${1:File Name}, ${2: Path Variable}, ${3: Base Variable}, ${4: Extension Variable});
+]]>
+</content>
+         <tabTrigger>parsefilename </tabTrigger>
+    <scope>source.modl</scope>
+    <description> parsefilename </description>
+</snippet>

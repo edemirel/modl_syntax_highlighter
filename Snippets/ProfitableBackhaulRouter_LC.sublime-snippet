@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ProfitableBackhaulRouter(${1:Vehicle File}, ${2: Links File}, ${3: Parameter File}, ${4: Links Network ArcsFile}, ${5: Links Network Access File});
+]]>
+</content>
+         <tabTrigger>profitablebackhaulrouter </tabTrigger>
+    <scope>source.modl</scope>
+    <description> profitablebackhaulrouter </description>
+</snippet>

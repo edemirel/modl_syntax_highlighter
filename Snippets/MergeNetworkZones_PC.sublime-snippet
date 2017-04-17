@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+MergeNetworkZones(${1:Zone File}, ${2: Criteria Field}, ${3: Upper Bound}, ${4: Number of Zones}, ${5:Mergeable Field}, ${6: Link Distance Field}, ${7: Construction Rule}, ${8: Zone ChangeField}, ${9: Output Variable});
+]]>
+</content>
+         <tabTrigger>MergeNetworkZones </tabTrigger>
+    <scope>source.modl</scope>
+    <description> MergeNetworkZones </description>
+</snippet>

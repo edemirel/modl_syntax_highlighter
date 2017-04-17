@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ZoomIn(${1:X-Coordinate}, ${2: Y-Coordinate}, ${3: DeltaY}, ${4: Center-Title Bar Message}, ${5: DeltaY-Title BarMessage}, ${6: X-Center TVar}, ${7: Y-Center TVar}, ${8: DeltaY TVar});
+]]>
+</content>
+         <tabTrigger>zoomin </tabTrigger>
+    <scope>source.modl</scope>
+    <description> zoomin </description>
+</snippet>

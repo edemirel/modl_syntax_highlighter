@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ShortestPath(${1:Links File}, ${2: Start Point ID}, ${3: End Point ID}, ${4: Directed Only Flag});
+]]>
+</content>
+         <tabTrigger>ShortestPath </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ShortestPath </description>
+</snippet>

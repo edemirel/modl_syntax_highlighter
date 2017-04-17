@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+PruneMenu();
+]]>
+</content>
+         <tabTrigger>prunemenu </tabTrigger>
+    <scope>source.modl</scope>
+    <description> prunemenu </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IsFile(${1:File}, ${2: Output Variable});
+]]>
+</content>
+         <tabTrigger>isfile </tabTrigger>
+    <scope>source.modl</scope>
+    <description> isfile </description>
+</snippet>

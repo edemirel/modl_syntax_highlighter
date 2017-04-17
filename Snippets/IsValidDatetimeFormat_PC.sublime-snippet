@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IsValidDatetimeFormat(${1:File}, ${2: String}, ${3: Format}, ${4: Output Variable});
+]]>
+</content>
+         <tabTrigger>IsValidDatetimeFormat </tabTrigger>
+    <scope>source.modl</scope>
+    <description> IsValidDatetimeFormat </description>
+</snippet>

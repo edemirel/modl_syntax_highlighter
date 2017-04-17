@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IsMacro(${1:Disk Macro File}, ${2: Output Variable});
+]]>
+</content>
+         <tabTrigger>IsMacro </tabTrigger>
+    <scope>source.modl</scope>
+    <description> IsMacro </description>
+</snippet>

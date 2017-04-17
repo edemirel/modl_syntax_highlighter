@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GenerateReport(${1:Disk Script File}, ${2: Data File}, ${3: "Disk Report File"}, ${4: Append Flag});
+]]>
+</content>
+         <tabTrigger>GenerateReport </tabTrigger>
+    <scope>source.modl</scope>
+    <description> GenerateReport </description>
+</snippet>

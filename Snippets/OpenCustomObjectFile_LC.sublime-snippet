@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+OpenCustomObjectFile(${1:Object Type}, ${2: "Custom File Name"});
+]]>
+</content>
+         <tabTrigger>opencustomobjectfile </tabTrigger>
+    <scope>source.modl</scope>
+    <description> opencustomobjectfile </description>
+</snippet>

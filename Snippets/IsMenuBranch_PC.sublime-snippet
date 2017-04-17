@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IsMenuBranch(${1:Menu}, ${2: Menu Branch}, ${3: Output Variable});
+]]>
+</content>
+         <tabTrigger>IsMenuBranch </tabTrigger>
+    <scope>source.modl</scope>
+    <description> IsMenuBranch </description>
+</snippet>

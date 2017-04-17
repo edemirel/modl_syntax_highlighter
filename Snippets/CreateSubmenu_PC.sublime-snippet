@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CreateSubmenu(${1:Submenu Text});
+]]>
+</content>
+         <tabTrigger>CreateSubmenu </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CreateSubmenu </description>
+</snippet>

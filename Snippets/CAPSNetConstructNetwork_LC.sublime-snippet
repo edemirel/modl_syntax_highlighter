@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CAPSNetConstructNetwork(${1:CAPSNet Extraction}, ${2: "Disk Points File"}, ${3: "Disk Links File"});
+]]>
+</content>
+         <tabTrigger>capsnetconstructnetwork </tabTrigger>
+    <scope>source.modl</scope>
+    <description> capsnetconstructnetwork </description>
+</snippet>

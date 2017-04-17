@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DeleteField(${1:File}, ${2: Field});
+]]>
+</content>
+         <tabTrigger>DeleteField </tabTrigger>
+    <scope>source.modl</scope>
+    <description> DeleteField </description>
+</snippet>

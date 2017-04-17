@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IsDLLFunctionDeclared(${1:Function Name}, ${2: Return Variable});
+]]>
+</content>
+         <tabTrigger>isdllfunctiondeclared </tabTrigger>
+    <scope>source.modl</scope>
+    <description> isdllfunctiondeclared </description>
+</snippet>

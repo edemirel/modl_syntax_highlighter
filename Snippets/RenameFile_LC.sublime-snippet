@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RenameFile(${1:File}, ${2: New File Name});
+]]>
+</content>
+         <tabTrigger>renamefile </tabTrigger>
+    <scope>source.modl</scope>
+    <description> renamefile </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+OpenFile(${1:Disk File ["Open as Filename"]}, ${2: ["Disk Format File"]});
+]]>
+</content>
+         <tabTrigger>openfile </tabTrigger>
+    <scope>source.modl</scope>
+    <description> openfile </description>
+</snippet>

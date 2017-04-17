@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ScaleVehicleWidth(${1:Vehicle File}, ${2: Test Field}, ${3: Lower Bound}, ${4: Upper Bound});
+]]>
+</content>
+         <tabTrigger>scalevehiclewidth </tabTrigger>
+    <scope>source.modl</scope>
+    <description> scalevehiclewidth </description>
+</snippet>

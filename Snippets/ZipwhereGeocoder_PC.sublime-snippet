@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ZipwhereGeocoder(${1:Points File}, ${2: "ZIPWhere File"});
+]]>
+</content>
+         <tabTrigger>ZipwhereGeocoder </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ZipwhereGeocoder </description>
+</snippet>

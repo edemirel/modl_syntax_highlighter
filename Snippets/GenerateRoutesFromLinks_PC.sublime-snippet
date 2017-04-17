@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GenerateRoutesFromLinks(${1:Links File}, ${2: Route ID}, ${3: Pickup Sequence}, ${4: Dropoff Sequence});
+]]>
+</content>
+         <tabTrigger>GenerateRoutesFromLinks </tabTrigger>
+    <scope>source.modl</scope>
+    <description> GenerateRoutesFromLinks </description>
+</snippet>

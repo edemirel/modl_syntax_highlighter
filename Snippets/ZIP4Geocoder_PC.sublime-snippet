@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ZIP4Geocoder(${1:Points File}, ${2: "Zip4 Database"});
+]]>
+</content>
+         <tabTrigger>ZIP4Geocoder </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ZIP4Geocoder </description>
+</snippet>

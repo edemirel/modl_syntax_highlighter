@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CAPSNetIdentifyRoad(${1:CAPSNet Extraction}, ${2: Longitude}, ${3: Latitude});
+]]>
+</content>
+         <tabTrigger>CAPSNetIdentifyRoad </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CAPSNetIdentifyRoad </description>
+</snippet>

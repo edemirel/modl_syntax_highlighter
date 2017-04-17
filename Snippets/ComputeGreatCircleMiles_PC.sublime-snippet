@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ComputeGreatCircleMiles(${1:Links File});
+]]>
+</content>
+         <tabTrigger>ComputeGreatCircleMiles </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ComputeGreatCircleMiles </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+KillToolkitVariable(${1:Variable Name});
+]]>
+</content>
+         <tabTrigger>killtoolkitvariable </tabTrigger>
+    <scope>source.modl</scope>
+    <description> killtoolkitvariable </description>
+</snippet>

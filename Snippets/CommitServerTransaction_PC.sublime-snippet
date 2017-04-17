@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CommitServerTransaction(${1:Connection ID});
+]]>
+</content>
+         <tabTrigger>CommitServerTransaction </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CommitServerTransaction </description>
+</snippet>

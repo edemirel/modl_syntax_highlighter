@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+MapMarkerProperties();
+]]>
+</content>
+         <tabTrigger>MapMarkerProperties </tabTrigger>
+    <scope>source.modl</scope>
+    <description> MapMarkerProperties </description>
+</snippet>

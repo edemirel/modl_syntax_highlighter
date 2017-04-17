@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+MaximalFlow(${1:Links File}, ${2: Start Point ID}, ${3: End Point ID}, ${4: Objective Variable});
+]]>
+</content>
+         <tabTrigger>maximalflow </tabTrigger>
+    <scope>source.modl</scope>
+    <description> maximalflow </description>
+</snippet>

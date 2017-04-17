@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SelectTable(${1:Title}, ${2: Table Type}, ${3: Multiple Selection}, ${4: Selection Variable}, ${5: NumSelectedVariable});
+]]>
+</content>
+         <tabTrigger>SelectTable </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SelectTable </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+OpenRecordWindow(${1:File}, ${2: Add Button Flag}, ${3: Delete Button Flag});
+]]>
+</content>
+         <tabTrigger>openrecordwindow </tabTrigger>
+    <scope>source.modl</scope>
+    <description> openrecordwindow </description>
+</snippet>

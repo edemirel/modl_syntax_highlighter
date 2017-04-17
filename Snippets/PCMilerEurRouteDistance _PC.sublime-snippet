@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+PCMilerEurRouteDistance (${1:File Name}, ${2: Stop Location Field}, ${3: Output Distance Variable}, ${4:Output Time Variable}, ${5: Output Distance Field}, ${6: Output Time Field}, ${7: HubMode}, ${8: Calculation Method}, ${9: Units});
+]]>
+</content>
+         <tabTrigger>PCMilerEurRouteDistance  </tabTrigger>
+    <scope>source.modl</scope>
+    <description> PCMilerEurRouteDistance  </description>
+</snippet>

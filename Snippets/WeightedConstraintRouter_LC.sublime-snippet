@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+WeightedConstraintRouter(${1:Vehicle File}, ${2: Links File}, ${3: Parameter File}, ${4: Links Network ArcsFile}, ${5: Links Network Access Arcs File});
+]]>
+</content>
+         <tabTrigger>weightedconstraintrouter </tabTrigger>
+    <scope>source.modl</scope>
+    <description> weightedconstraintrouter </description>
+</snippet>

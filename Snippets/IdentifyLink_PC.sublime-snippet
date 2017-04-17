@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IdentifyLink(${1:Links File}, ${2: Status Message}, ${3: Input Point X}, ${4: Input Point Y});
+]]>
+</content>
+         <tabTrigger>IdentifyLink </tabTrigger>
+    <scope>source.modl</scope>
+    <description> IdentifyLink </description>
+</snippet>

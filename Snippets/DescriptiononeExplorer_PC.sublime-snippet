@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DescriptiononeExplorer(${1:Window Name}, ${2: Zone File}, ${3: Parameter File}, ${4: Filter File}, ${5: Right ClickMacro});
+]]>
+</content>
+         <tabTrigger>DescriptiononeExplorer </tabTrigger>
+    <scope>source.modl</scope>
+    <description> DescriptiononeExplorer </description>
+</snippet>

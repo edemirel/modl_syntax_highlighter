@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ClipboardCopy(${1:File }, ${2: {List of Fields}}, ${3: Data Arrangement});
+]]>
+</content>
+         <tabTrigger>clipboardcopy </tabTrigger>
+    <scope>source.modl</scope>
+    <description> clipboardcopy </description>
+</snippet>

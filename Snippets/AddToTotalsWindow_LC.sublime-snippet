@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+AddToTotalsWindow(${1:File}, ${2: Field}, ${3: Row Position}, ${4: Action}, ${5: Label}, ${6: Label Width}, ${7: Value Width}, ${8:Value Precision}, ${9: Add To Grand Total Flag}, ${10: Left Justification Flag});
+]]>
+</content>
+         <tabTrigger>addtototalswindow </tabTrigger>
+    <scope>source.modl</scope>
+    <description> addtototalswindow </description>
+</snippet>

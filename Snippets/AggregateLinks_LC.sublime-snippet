@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+AggregateLinks(${1:Input Links File}, ${2: Output Links File}, ${3: "Logical Expression"}, ${4: Append Flag}, ${5:Cluster Field}, ${6: Parallel Links Flag}, ${7: Point FROMID Value}, ${8: Point TOID Value});
+]]>
+</content>
+         <tabTrigger>aggregatelinks </tabTrigger>
+    <scope>source.modl</scope>
+    <description> aggregatelinks </description>
+</snippet>

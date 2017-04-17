@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+OpenMenu(${1:Disk File});
+]]>
+</content>
+         <tabTrigger>openmenu </tabTrigger>
+    <scope>source.modl</scope>
+    <description> openmenu </description>
+</snippet>

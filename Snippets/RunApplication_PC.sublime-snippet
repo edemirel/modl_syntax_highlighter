@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RunApplication(${1:Application }, ${2: Wait for Exit}, ${3: Window State});
+]]>
+</content>
+         <tabTrigger>RunApplication </tabTrigger>
+    <scope>source.modl</scope>
+    <description> RunApplication </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GetServerMappings(${1:Output File}, ${2: TK File Name Field}, ${3: TK Field Name Field}, ${4: DB File NameField});
+]]>
+</content>
+         <tabTrigger>GetServerMappings </tabTrigger>
+    <scope>source.modl</scope>
+    <description> GetServerMappings </description>
+</snippet>

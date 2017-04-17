@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ExitToolkit();
+]]>
+</content>
+         <tabTrigger>ExitToolkit </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ExitToolkit </description>
+</snippet>

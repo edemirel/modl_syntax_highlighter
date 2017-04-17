@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SystemPause(${1:Delay}, ${2: Title Bar Message}, ${3: Show Timer});
+]]>
+</content>
+         <tabTrigger>SystemPause </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SystemPause </description>
+</snippet>

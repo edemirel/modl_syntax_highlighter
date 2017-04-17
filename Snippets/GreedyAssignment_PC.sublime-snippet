@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GreedyAssignment(${1:Links File}, ${2: Algorithm});
+]]>
+</content>
+         <tabTrigger>GreedyAssignment </tabTrigger>
+    <scope>source.modl</scope>
+    <description> GreedyAssignment </description>
+</snippet>

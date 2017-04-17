@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+PaintGraphics(${1:Force Refresh});
+]]>
+</content>
+         <tabTrigger>paintgraphics </tabTrigger>
+    <scope>source.modl</scope>
+    <description> paintgraphics </description>
+</snippet>

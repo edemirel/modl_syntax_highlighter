@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+MixedIntegerNetworkFlow(${1:Links Set}, ${2: Algorithm}, ${3: Objective Variable});
+]]>
+</content>
+         <tabTrigger>mixedintegernetworkflow </tabTrigger>
+    <scope>source.modl</scope>
+    <description> mixedintegernetworkflow </description>
+</snippet>

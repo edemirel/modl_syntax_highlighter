@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DisableRepeatLastMacro();
+]]>
+</content>
+         <tabTrigger>DisableRepeatLastMacro </tabTrigger>
+    <scope>source.modl</scope>
+    <description> DisableRepeatLastMacro </description>
+</snippet>

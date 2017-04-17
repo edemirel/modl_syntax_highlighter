@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetAggregateDefaultValue(${1:Points or Links File}, ${2: {List of Field Names}}, ${3: Default Field Value});
+]]>
+</content>
+         <tabTrigger>SetAggregateDefaultValue </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SetAggregateDefaultValue </description>
+</snippet>

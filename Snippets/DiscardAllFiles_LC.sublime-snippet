@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DiscardAllFiles(${1:Object Type});
+]]>
+</content>
+         <tabTrigger>discardallfiles </tabTrigger>
+    <scope>source.modl</scope>
+    <description> discardallfiles </description>
+</snippet>

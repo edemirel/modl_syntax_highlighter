@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetStatusBar(${1:User Mode}, ${2: Range Format});
+]]>
+</content>
+         <tabTrigger>setstatusbar </tabTrigger>
+    <scope>source.modl</scope>
+    <description> setstatusbar </description>
+</snippet>

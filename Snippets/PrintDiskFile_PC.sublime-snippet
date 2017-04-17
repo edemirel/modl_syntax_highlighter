@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+PrintDiskFile(${1:Disk File});
+]]>
+</content>
+         <tabTrigger>PrintDiskFile </tabTrigger>
+    <scope>source.modl</scope>
+    <description> PrintDiskFile </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+MapMarkerBatchGeocoder(${1:Points File});
+]]>
+</content>
+         <tabTrigger>mapmarkerbatchgeocoder </tabTrigger>
+    <scope>source.modl</scope>
+    <description> mapmarkerbatchgeocoder </description>
+</snippet>

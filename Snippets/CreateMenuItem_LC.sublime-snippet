@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CreateMenuItem(${1:Item Text}, ${2: Macro}, ${3: Help Text}, ${4: [[Macroargument 1]}, ${5:...[Macroargument 3]]});
+]]>
+</content>
+         <tabTrigger>createmenuitem </tabTrigger>
+    <scope>source.modl</scope>
+    <description> createmenuitem </description>
+</snippet>

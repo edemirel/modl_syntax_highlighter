@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetGrandTotalsRecord(${1:Value});
+]]>
+</content>
+         <tabTrigger>setgrandtotalsrecord </tabTrigger>
+    <scope>source.modl</scope>
+    <description> setgrandtotalsrecord </description>
+</snippet>

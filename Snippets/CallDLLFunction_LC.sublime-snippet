@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CallDLLFunction(${1:Function Name}, ${2: Return Type}, ${3: Argument List});
+]]>
+</content>
+         <tabTrigger>calldllfunction </tabTrigger>
+    <scope>source.modl</scope>
+    <description> calldllfunction </description>
+</snippet>

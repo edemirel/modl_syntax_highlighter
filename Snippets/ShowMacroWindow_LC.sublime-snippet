@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ShowMacroWindow();
+]]>
+</content>
+         <tabTrigger>showmacrowindow </tabTrigger>
+    <scope>source.modl</scope>
+    <description> showmacrowindow </description>
+</snippet>

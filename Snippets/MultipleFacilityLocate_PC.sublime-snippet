@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+MultipleFacilityLocate(${1:Demand Points Set}, ${2: Facility Points}, ${3: Number of Facilities}, ${4: LocationMethod}, ${5: Alias File});
+]]>
+</content>
+         <tabTrigger>MultipleFacilityLocate </tabTrigger>
+    <scope>source.modl</scope>
+    <description> MultipleFacilityLocate </description>
+</snippet>

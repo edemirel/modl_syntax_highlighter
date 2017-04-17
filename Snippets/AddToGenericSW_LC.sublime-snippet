@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+AddToGenericSW(${1:Window Name}, ${2: Start Field}, ${3: End Field}, ${4: Bar Type Field}, ${5: Text Field}, ${6:Show Window});
+]]>
+</content>
+         <tabTrigger>addtogenericsw </tabTrigger>
+    <scope>source.modl</scope>
+    <description> addtogenericsw </description>
+</snippet>

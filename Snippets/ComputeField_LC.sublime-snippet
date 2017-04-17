@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ComputeField(${1:File}, ${2: Field}, ${3: "Expression"});
+]]>
+</content>
+         <tabTrigger>computefield </tabTrigger>
+    <scope>source.modl</scope>
+    <description> computefield </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+KillTotals();
+]]>
+</content>
+         <tabTrigger>KillTotals </tabTrigger>
+    <scope>source.modl</scope>
+    <description> KillTotals </description>
+</snippet>

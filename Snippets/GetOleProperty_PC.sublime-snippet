@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GetOleProperty(${1:OLE Object}, ${2: Property Name}, ${3: Output Variable});
+]]>
+</content>
+         <tabTrigger>GetOleProperty </tabTrigger>
+    <scope>source.modl</scope>
+    <description> GetOleProperty </description>
+</snippet>

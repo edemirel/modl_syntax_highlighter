@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CreateOleObject(${1:Output Variable}, ${2: OLE Class Name});
+]]>
+</content>
+         <tabTrigger>CreateOleObject </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CreateOleObject </description>
+</snippet>

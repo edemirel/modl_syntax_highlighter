@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ModeSelectionRouter(${1:Vehicle File}, ${2: Links File}, ${3: Parameter File}, ${4: Links Network Arcs File}, ${5:Links Network Access Arcs File});
+]]>
+</content>
+         <tabTrigger>ModeSelectionRouter </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ModeSelectionRouter </description>
+</snippet>

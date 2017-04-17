@@ -1,0 +1,15 @@
+<snippet>
+    <content>
+        <![CDATA[
+//----------------------------------------------------------------------
+// Developer   : ${1:User Name}
+// Date Added  : ${2:Date Added}
+//
+// Comments    : ${5:Macro Results}
+//               
+//----------------------------------------------------------------------
+]]>
+</content>
+    <tabTrigger>commentblock</tabTrigger>
+    <scope>source.modl</scope>
+</snippet>

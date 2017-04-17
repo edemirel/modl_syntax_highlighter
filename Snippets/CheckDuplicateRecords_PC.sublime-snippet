@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CheckDuplicateRecords(${1:File}, ${2: Field}, ${3: Duplicate Active Flag});
+]]>
+</content>
+         <tabTrigger>CheckDuplicateRecords </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CheckDuplicateRecords </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GenerateLinksInRange(${1:From Points File}, ${2: To Points File}, ${3: Output Links File}, ${4: Lower BndDistance}, ${5: Upper Bnd Distance}, ${6: Distance Measure}, ${7: Distance/Unit X}, ${8:Distance/Unit Y});
+]]>
+</content>
+         <tabTrigger>generatelinksinrange </tabTrigger>
+    <scope>source.modl</scope>
+    <description> generatelinksinrange </description>
+</snippet>

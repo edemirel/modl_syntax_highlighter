@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ResetTotalsWindow();
+]]>
+</content>
+         <tabTrigger>resettotalswindow </tabTrigger>
+    <scope>source.modl</scope>
+    <description> resettotalswindow </description>
+</snippet>

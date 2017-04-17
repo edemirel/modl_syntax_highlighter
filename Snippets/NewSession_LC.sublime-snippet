@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+NewSession();
+]]>
+</content>
+         <tabTrigger>newsession </tabTrigger>
+    <scope>source.modl</scope>
+    <description> newsession </description>
+</snippet>

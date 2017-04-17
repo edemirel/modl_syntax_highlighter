@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+OpenMacroKeys(${1:Disk File});
+]]>
+</content>
+         <tabTrigger>openmacrokeys </tabTrigger>
+    <scope>source.modl</scope>
+    <description> openmacrokeys </description>
+</snippet>

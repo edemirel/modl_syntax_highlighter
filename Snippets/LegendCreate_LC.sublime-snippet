@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+LegendCreate(${1:Legend Window Name}, ${2: Position X}, ${3: Position Y}, ${4: Docked});
+]]>
+</content>
+         <tabTrigger>legendcreate </tabTrigger>
+    <scope>source.modl</scope>
+    <description> legendcreate </description>
+</snippet>

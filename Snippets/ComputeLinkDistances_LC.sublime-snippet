@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ComputeLinkDistances(${1:Links File}, ${2: Distance Measure});
+]]>
+</content>
+         <tabTrigger>computelinkdistances </tabTrigger>
+    <scope>source.modl</scope>
+    <description> computelinkdistances </description>
+</snippet>

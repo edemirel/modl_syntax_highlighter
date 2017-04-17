@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+WriteStatusBar(${1:Message});
+]]>
+</content>
+         <tabTrigger>WriteStatusBar </tabTrigger>
+    <scope>source.modl</scope>
+    <description> WriteStatusBar </description>
+</snippet>

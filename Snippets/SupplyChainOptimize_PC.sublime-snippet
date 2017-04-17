@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SupplyChainOptimize(${1:Points Set}, ${2: Links Set}, ${3: Product File}, ${4: Constraint Set}, ${5: Scenario}, ${6:Operation}, ${7: Disk File}, ${8: Algorithm}, ${9: Parameter File}, ${10: Field Name Alias Table});
+]]>
+</content>
+         <tabTrigger>SupplyChainOptimize </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SupplyChainOptimize </description>
+</snippet>

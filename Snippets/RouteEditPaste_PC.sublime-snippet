@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RouteEditPaste(${1:Route Card}, ${2: Link ID}, ${3: Route Action});
+]]>
+</content>
+         <tabTrigger>RouteEditPaste </tabTrigger>
+    <scope>source.modl</scope>
+    <description> RouteEditPaste </description>
+</snippet>

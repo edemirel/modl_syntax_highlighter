@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RouteEditorMacros(${1:Preprocess Schedule Macro}, ${2: "Postprocess Schedule Macro"}, ${3:RightClick Macro});
+]]>
+</content>
+         <tabTrigger>routeeditormacros </tabTrigger>
+    <scope>source.modl</scope>
+    <description> routeeditormacros </description>
+</snippet>

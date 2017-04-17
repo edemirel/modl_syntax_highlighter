@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CopyField(${1:File}, ${2:TargetField}, ${3:SourceField});
+]]>
+</content>
+    <tabTrigger>copyfield</tabTrigger>
+    <scope>source.modl</scope>
+    <description>Copy Field</description>
+</snippet>

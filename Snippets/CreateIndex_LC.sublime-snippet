@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CreateIndex(${1:File}, ${2: Output Field}, ${3: Start Value});
+]]>
+</content>
+         <tabTrigger>createindex </tabTrigger>
+    <scope>source.modl</scope>
+    <description> createindex </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CreateToolBarButton(${1:ToolBar}, ${2: Position}, ${3: Button Image}, ${4: Macro}, ${5: Help Text}, ${6: ToolTip Text}, ${7:[Macro arguments]});
+]]>
+</content>
+         <tabTrigger>CreateToolBarButton </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CreateToolBarButton </description>
+</snippet>

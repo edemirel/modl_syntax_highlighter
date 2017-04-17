@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+OpenReportPreviewWindow(${1:Discard Saved Data}, ${2: Report File Name}, ${3: Database FileName}, ${4: Report Title}, ${5: Show Tree View}, ${6: Preview Window ID});
+]]>
+</content>
+         <tabTrigger>OpenReportPreviewWindow </tabTrigger>
+    <scope>source.modl</scope>
+    <description> OpenReportPreviewWindow </description>
+</snippet>

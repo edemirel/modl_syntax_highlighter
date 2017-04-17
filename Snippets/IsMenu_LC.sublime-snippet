@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IsMenu(${1:Menu}, ${2: Output Variable});
+]]>
+</content>
+         <tabTrigger>ismenu </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ismenu </description>
+</snippet>

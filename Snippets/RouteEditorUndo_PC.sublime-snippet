@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RouteEditorUndo(${1:Undo});
+]]>
+</content>
+         <tabTrigger>RouteEditorUndo </tabTrigger>
+    <scope>source.modl</scope>
+    <description> RouteEditorUndo </description>
+</snippet>

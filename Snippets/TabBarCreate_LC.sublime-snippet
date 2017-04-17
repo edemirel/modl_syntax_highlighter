@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+TabBarCreate(${1:Tabbed Views Table}, ${2: Macro To Run on Click});
+]]>
+</content>
+         <tabTrigger>tabbarcreate </tabTrigger>
+    <scope>source.modl</scope>
+    <description> tabbarcreate </description>
+</snippet>

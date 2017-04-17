@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+PointDistanceAndAngle(${1:Points File}, ${2: Reference PointID});
+]]>
+</content>
+         <tabTrigger>PointDistanceAndAngle </tabTrigger>
+    <scope>source.modl</scope>
+    <description> PointDistanceAndAngle </description>
+</snippet>

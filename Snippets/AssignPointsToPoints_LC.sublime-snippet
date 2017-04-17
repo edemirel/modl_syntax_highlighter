@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+AssignPointsToPoints(${1:Links File}, ${2: Links Test Field}, ${3: Assignment Direction}, ${4: Test Criteria});
+]]>
+</content>
+         <tabTrigger>assignpointstopoints </tabTrigger>
+    <scope>source.modl</scope>
+    <description> assignpointstopoints </description>
+</snippet>

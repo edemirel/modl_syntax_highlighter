@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CheckFreeDiskSpace(${1:Drive Letter}, ${2: Output Variable});
+]]>
+</content>
+         <tabTrigger>checkfreediskspace </tabTrigger>
+    <scope>source.modl</scope>
+    <description> checkfreediskspace </description>
+</snippet>

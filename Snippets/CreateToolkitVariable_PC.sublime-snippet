@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CreateToolkitVariable(${1:Variable Name}, ${2: Value}, ${3: Variable Type}, ${4: "Variable Group"});
+]]>
+</content>
+         <tabTrigger>CreateToolkitVariable </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CreateToolkitVariable </description>
+</snippet>

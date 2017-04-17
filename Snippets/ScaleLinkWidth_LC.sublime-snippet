@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ScaleLinkWidth(${1:Links File}, ${2: Test Field}, ${3: Lower Bound}, ${4: Upper Bound});
+]]>
+</content>
+         <tabTrigger>scalelinkwidth </tabTrigger>
+    <scope>source.modl</scope>
+    <description> scalelinkwidth </description>
+</snippet>

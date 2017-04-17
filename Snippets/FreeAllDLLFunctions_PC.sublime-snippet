@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+FreeAllDLLFunctions();
+]]>
+</content>
+         <tabTrigger>FreeAllDLLFunctions </tabTrigger>
+    <scope>source.modl</scope>
+    <description> FreeAllDLLFunctions </description>
+</snippet>

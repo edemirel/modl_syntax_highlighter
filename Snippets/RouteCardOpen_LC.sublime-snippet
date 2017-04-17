@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RouteCardOpen(${1:Route File}, ${2: Initial Card Size Type});
+]]>
+</content>
+         <tabTrigger>routecardopen </tabTrigger>
+    <scope>source.modl</scope>
+    <description> routecardopen </description>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+    <content>
+        <![CDATA[
+IsField(${1:TableName}, ${2:FieldName}, ${3:sVar4});
+if (@$3 = ${4:"NO"}) then
+    CreateField($1, $2);
+    //DeleteField($1, $2);
+endif
+
+]]>
+</content>
+    <tabTrigger>checknewfield</tabTrigger>
+    <scope>source.modl</scope>
+    <description>Snippet</description>
+</snippet>

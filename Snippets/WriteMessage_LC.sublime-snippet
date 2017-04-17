@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+WriteMessage(${1:Disk File}, ${2: Message}, ${3: File Open Mode}, ${4: New-line Flag});
+]]>
+</content>
+         <tabTrigger>writemessage </tabTrigger>
+    <scope>source.modl</scope>
+    <description> writemessage </description>
+</snippet>

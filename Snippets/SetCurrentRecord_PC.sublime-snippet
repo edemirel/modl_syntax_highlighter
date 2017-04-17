@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetCurrentRecord(${1:File}, ${2: Field}, ${3: Value}, ${4: Set Current File}, ${5: Output Variable}, ${6: Case Sensitive});
+]]>
+</content>
+         <tabTrigger>SetCurrentRecord </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SetCurrentRecord </description>
+</snippet>

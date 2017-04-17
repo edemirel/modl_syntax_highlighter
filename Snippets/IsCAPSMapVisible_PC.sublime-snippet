@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IsCAPSMapVisible(${1:CAPS Map File}, ${2: Output Variable});
+]]>
+</content>
+         <tabTrigger>IsCAPSMapVisible </tabTrigger>
+    <scope>source.modl</scope>
+    <description> IsCAPSMapVisible </description>
+</snippet>

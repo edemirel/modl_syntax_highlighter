@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CreatePopupMenu(${1:Menu});
+]]>
+</content>
+         <tabTrigger>createpopupmenu </tabTrigger>
+    <scope>source.modl</scope>
+    <description> createpopupmenu </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IntersectNetworkAtZone(${1:Links File}, ${2: Zone File}, ${3: Zone ID}, ${4: Points Output Field}, ${5: Links OutputField});
+]]>
+</content>
+         <tabTrigger>intersectnetworkatzone </tabTrigger>
+    <scope>source.modl</scope>
+    <description> intersectnetworkatzone </description>
+</snippet>

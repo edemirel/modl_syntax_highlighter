@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+HighlightPoint(${1:Points File});
+]]>
+</content>
+         <tabTrigger>highlightpoint </tabTrigger>
+    <scope>source.modl</scope>
+    <description> highlightpoint </description>
+</snippet>

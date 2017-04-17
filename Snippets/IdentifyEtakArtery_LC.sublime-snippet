@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IdentifyEtakArtery();
+]]>
+</content>
+         <tabTrigger>identifyetakartery </tabTrigger>
+    <scope>source.modl</scope>
+    <description> identifyetakartery </description>
+</snippet>

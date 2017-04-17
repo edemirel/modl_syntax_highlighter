@@ -1,0 +1,13 @@
+<snippet>
+    <content>
+        <![CDATA[
+IsVariable(${1:VariableName}, ${2:nVar4});
+if (@$2 = ${3:0}) then
+    CreateToolkitVariable("$1", ${4:InitialValue}, ${5:VariableType});
+endif
+]]>
+</content>
+    <tabTrigger>checknewvar</tabTrigger>
+    <scope>source.modl</scope>
+    <description>Snippet</description>
+</snippet>

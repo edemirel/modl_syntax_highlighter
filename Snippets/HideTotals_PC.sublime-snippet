@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+HideTotals();
+]]>
+</content>
+         <tabTrigger>HideTotals </tabTrigger>
+    <scope>source.modl</scope>
+    <description> HideTotals </description>
+</snippet>

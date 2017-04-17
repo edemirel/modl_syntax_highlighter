@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+AssignPointAccessNode(${1:Points File}, ${2: Network Points File});
+]]>
+</content>
+         <tabTrigger>AssignPointAccessNode </tabTrigger>
+    <scope>source.modl</scope>
+    <description> AssignPointAccessNode </description>
+</snippet>

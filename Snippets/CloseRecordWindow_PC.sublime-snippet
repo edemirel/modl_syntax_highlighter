@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CloseRecordWindow(${1:File});
+]]>
+</content>
+         <tabTrigger>CloseRecordWindow </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CloseRecordWindow </description>
+</snippet>

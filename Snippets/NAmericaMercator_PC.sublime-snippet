@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+NAmericaMercator(${1:Points File}, ${2: Input X Field}, ${3: Input Y Field}, ${4: Output X Field}, ${5: Output YField}, ${6: Transform Direction});
+]]>
+</content>
+         <tabTrigger>NAmericaMercator </tabTrigger>
+    <scope>source.modl</scope>
+    <description> NAmericaMercator </description>
+</snippet>

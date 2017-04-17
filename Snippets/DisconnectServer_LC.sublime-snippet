@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DisconnectServer(${1:Connection ID});
+]]>
+</content>
+         <tabTrigger>disconnectserver </tabTrigger>
+    <scope>source.modl</scope>
+    <description> disconnectserver </description>
+</snippet>

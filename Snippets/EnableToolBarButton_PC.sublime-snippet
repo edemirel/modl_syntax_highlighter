@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+EnableToolBarButton(${1:ToolBar}, ${2: Position}, ${3: Enable Flag});
+]]>
+</content>
+         <tabTrigger>EnableToolBarButton </tabTrigger>
+    <scope>source.modl</scope>
+    <description> EnableToolBarButton </description>
+</snippet>

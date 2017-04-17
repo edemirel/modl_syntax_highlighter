@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+TabBarDestroy();
+]]>
+</content>
+         <tabTrigger>TabBarDestroy </tabTrigger>
+    <scope>source.modl</scope>
+    <description> TabBarDestroy </description>
+</snippet>

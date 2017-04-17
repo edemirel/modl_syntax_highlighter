@@ -1,0 +1,14 @@
+<snippet>
+    <content>
+        <![CDATA[
+foreach (i in ${1:TableName}) do
+    
+    
+
+endforeach
+]]>
+</content>
+    <tabTrigger>foreach</tabTrigger>
+    <scope>source.modl</scope>
+    <description>Snippet</description>
+</snippet>

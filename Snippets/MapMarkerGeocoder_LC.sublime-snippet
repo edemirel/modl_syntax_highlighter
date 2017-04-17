@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+MapMarkerGeocoder(${1:Points File}, ${2: On Close Macro});
+]]>
+</content>
+         <tabTrigger>mapmarkergeocoder </tabTrigger>
+    <scope>source.modl</scope>
+    <description> mapmarkergeocoder </description>
+</snippet>

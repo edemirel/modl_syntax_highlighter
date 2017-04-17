@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+MergeMapZone(${1:Zone File}, ${2: Zone1 ID}, ${3: Zone2 ID});
+]]>
+</content>
+         <tabTrigger>mergemapzone </tabTrigger>
+    <scope>source.modl</scope>
+    <description> mergemapzone </description>
+</snippet>

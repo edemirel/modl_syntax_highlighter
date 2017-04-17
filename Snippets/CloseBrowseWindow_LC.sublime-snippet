@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CloseBrowseWindow(${1:File});
+]]>
+</content>
+         <tabTrigger>closebrowsewindow </tabTrigger>
+    <scope>source.modl</scope>
+    <description> closebrowsewindow </description>
+</snippet>

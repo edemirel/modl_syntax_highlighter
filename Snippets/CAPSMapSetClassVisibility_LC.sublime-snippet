@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CAPSMapSetClassVisibility(${1:CAPS Map:Class}, ${2: Visibility});
+]]>
+</content>
+         <tabTrigger>capsmapsetclassvisibility </tabTrigger>
+    <scope>source.modl</scope>
+    <description> capsmapsetclassvisibility </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GetViewBounds(${1:Left Boundary Variable}, ${2: Right Boundary Variable}, ${3: Bottom BoundaryVariable}, ${4: Top Boundary Variable});
+]]>
+</content>
+         <tabTrigger>getviewbounds </tabTrigger>
+    <scope>source.modl</scope>
+    <description> getviewbounds </description>
+</snippet>

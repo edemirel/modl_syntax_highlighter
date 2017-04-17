@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CPLEXReadSolveWrite(${1:MPS/LP/SAV File}, ${2: Solution File}, ${3: Algorithm}, ${4: CPLEX ParameterFile});
+]]>
+</content>
+         <tabTrigger>CPLEXReadSolveWrite </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CPLEXReadSolveWrite </description>
+</snippet>

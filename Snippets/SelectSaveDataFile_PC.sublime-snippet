@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SelectSaveDataFile(${1:Initial Path}, ${2: Table Name}, ${3: Active Variable}, ${4: Format Variable}, ${5: DelimiterVariable}, ${6: Filename Variable}, ${7: Title});
+]]>
+</content>
+         <tabTrigger>SelectSaveDataFile </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SelectSaveDataFile </description>
+</snippet>

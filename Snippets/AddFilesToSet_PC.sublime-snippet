@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+AddFilesToSet(${1:File}, ${2: Object Type}, ${3: Set File});
+]]>
+</content>
+         <tabTrigger>AddFilesToSet </tabTrigger>
+    <scope>source.modl</scope>
+    <description> AddFilesToSet </description>
+</snippet>

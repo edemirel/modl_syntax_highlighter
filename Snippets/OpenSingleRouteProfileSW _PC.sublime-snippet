@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+OpenSingleRouteProfileSW (${1:Window Name}, ${2: Route Table}, ${3: Param File}, ${4: Vehicle File}, ${5:Activity Format}, ${6: Show Time Windows}, ${7: Resource User 1 Field}, ${8: ... ResourceUser 4 Field});
+]]>
+</content>
+         <tabTrigger>OpenSingleRouteProfileSW  </tabTrigger>
+    <scope>source.modl</scope>
+    <description> OpenSingleRouteProfileSW  </description>
+</snippet>

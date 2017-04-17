@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+PostalGeocoder(${1:Points File}, ${2: Postal Database});
+]]>
+</content>
+         <tabTrigger>PostalGeocoder </tabTrigger>
+    <scope>source.modl</scope>
+    <description> PostalGeocoder </description>
+</snippet>

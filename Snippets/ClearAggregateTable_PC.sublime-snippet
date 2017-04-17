@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ClearAggregateTable();
+]]>
+</content>
+         <tabTrigger>ClearAggregateTable </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ClearAggregateTable </description>
+</snippet>

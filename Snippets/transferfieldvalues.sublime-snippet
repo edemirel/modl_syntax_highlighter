@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+        <![CDATA[
+TransferFieldValue(${1:TargetTable}, ${2:TargetJoinField}, ${3:SourceTable}, ${4:SourceJoinField}, ${5:TargetField}, ${6:SourceField}, ${7:TransferType});]]>
+</content>
+    <tabTrigger>transferFieldValues</tabTrigger>
+    <scope>source.modl</scope>
+    <description> Toolkit </description>
+</snippet>

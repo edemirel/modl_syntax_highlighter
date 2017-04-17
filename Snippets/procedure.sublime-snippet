@@ -1,0 +1,13 @@
+<snippet>
+    <content>
+        <![CDATA[
+procedure ${1:ProcName}() begin
+    // ${2:Description}
+
+endprocedure
+]]>
+</content>
+    <tabTrigger>procedure</tabTrigger>
+    <scope>source.modl</scope>
+    <description>Create Procedure</description>
+</snippet>

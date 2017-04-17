@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ToolkitWindow(${1:Module Name}, ${2: Tool Name}, ${3: Title Bar Message});
+]]>
+</content>
+         <tabTrigger>toolkitwindow </tabTrigger>
+    <scope>source.modl</scope>
+    <description> toolkitwindow </description>
+</snippet>

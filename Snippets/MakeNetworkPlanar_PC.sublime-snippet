@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+MakeNetworkPlanar(${1:Links File});
+]]>
+</content>
+         <tabTrigger>MakeNetworkPlanar </tabTrigger>
+    <scope>source.modl</scope>
+    <description> MakeNetworkPlanar </description>
+</snippet>

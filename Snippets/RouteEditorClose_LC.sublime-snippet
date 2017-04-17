@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RouteEditorClose(${1:Query Flag});
+]]>
+</content>
+         <tabTrigger>routeeditorclose </tabTrigger>
+    <scope>source.modl</scope>
+    <description> routeeditorclose </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GetAttributeList(${1:Input File}, ${2: Output File}, ${3: Attribute Type});
+]]>
+</content>
+         <tabTrigger>GetAttributeList </tabTrigger>
+    <scope>source.modl</scope>
+    <description> GetAttributeList </description>
+</snippet>

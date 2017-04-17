@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetDayNames(${1:Name Type}, ${2: 1st Day }, ${3: 2nd Day}, ${4:...}, ${5:7th Day});
+]]>
+</content>
+         <tabTrigger>setdaynames </tabTrigger>
+    <scope>source.modl</scope>
+    <description> setdaynames </description>
+</snippet>

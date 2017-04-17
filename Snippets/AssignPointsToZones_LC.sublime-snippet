@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+AssignPointsToZones(${1:Points File}, ${2: Zone File});
+]]>
+</content>
+         <tabTrigger>assignpointstozones </tabTrigger>
+    <scope>source.modl</scope>
+    <description> assignpointstozones </description>
+</snippet>

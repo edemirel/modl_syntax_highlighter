@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+OpenLocalVariableWindow();
+]]>
+</content>
+         <tabTrigger>OpenLocalVariableWindow </tabTrigger>
+    <scope>source.modl</scope>
+    <description> OpenLocalVariableWindow </description>
+</snippet>

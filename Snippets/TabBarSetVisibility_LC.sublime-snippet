@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+TabBarSetVisibility(${1:Visible Flag});
+]]>
+</content>
+         <tabTrigger>tabbarsetvisibility </tabTrigger>
+    <scope>source.modl</scope>
+    <description> tabbarsetvisibility </description>
+</snippet>

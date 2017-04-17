@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IsServerConnection(${1:Connection ID}, ${2: Output Variable});
+]]>
+</content>
+         <tabTrigger>isserverconnection </tabTrigger>
+    <scope>source.modl</scope>
+    <description> isserverconnection </description>
+</snippet>

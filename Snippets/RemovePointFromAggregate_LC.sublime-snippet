@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RemovePointFromAggregate(${1:Points File}, ${2: Point ID});
+]]>
+</content>
+         <tabTrigger>removepointfromaggregate </tabTrigger>
+    <scope>source.modl</scope>
+    <description> removepointfromaggregate </description>
+</snippet>

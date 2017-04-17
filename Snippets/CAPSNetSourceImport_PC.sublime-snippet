@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CAPSNetSourceImport(${1:GIS Source}, ${2: "CAPSNet Source"}, ${3: Source Type});
+]]>
+</content>
+         <tabTrigger>CAPSNetSourceImport </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CAPSNetSourceImport </description>
+</snippet>

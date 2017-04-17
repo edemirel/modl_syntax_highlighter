@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CAPSMapSetLabelFont(${1:Font Name}, ${2: Font Size}, ${3: "Font Color"});
+]]>
+</content>
+         <tabTrigger>capsmapsetlabelfont </tabTrigger>
+    <scope>source.modl</scope>
+    <description> capsmapsetlabelfont </description>
+</snippet>

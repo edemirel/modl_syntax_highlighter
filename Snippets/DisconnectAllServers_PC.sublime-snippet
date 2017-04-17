@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DisconnectAllServers();
+]]>
+</content>
+         <tabTrigger>DisconnectAllServers </tabTrigger>
+    <scope>source.modl</scope>
+    <description> DisconnectAllServers </description>
+</snippet>

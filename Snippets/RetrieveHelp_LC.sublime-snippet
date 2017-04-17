@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RetrieveHelp(${1:Command String}, ${2: Help Data String});
+]]>
+</content>
+         <tabTrigger>retrievehelp </tabTrigger>
+    <scope>source.modl</scope>
+    <description> retrievehelp </description>
+</snippet>

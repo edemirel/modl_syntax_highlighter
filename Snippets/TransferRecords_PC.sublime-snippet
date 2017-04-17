@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+TransferRecords(${1:Source File}, ${2: Target File}, ${3: Update Flag}, ${4: Create Flag}, ${5:Common Fields Flag});
+]]>
+</content>
+         <tabTrigger>TransferRecords </tabTrigger>
+    <scope>source.modl</scope>
+    <description> TransferRecords </description>
+</snippet>

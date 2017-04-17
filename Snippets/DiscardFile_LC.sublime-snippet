@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DiscardFile(${1:File});
+]]>
+</content>
+         <tabTrigger>discardfile </tabTrigger>
+    <scope>source.modl</scope>
+    <description> discardfile </description>
+</snippet>

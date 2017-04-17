@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CallOleMethod(${1:OLE Object}, ${2: Method Name}, ${3: [Output Variable]}, ${4: [Argument Types . . .]});
+]]>
+</content>
+         <tabTrigger>callolemethod </tabTrigger>
+    <scope>source.modl</scope>
+    <description> callolemethod </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetProjectTitle(${1:Title});
+]]>
+</content>
+         <tabTrigger>SetProjectTitle </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SetProjectTitle </description>
+</snippet>

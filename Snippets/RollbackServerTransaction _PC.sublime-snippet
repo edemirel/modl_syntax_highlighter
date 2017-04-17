@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RollbackServerTransaction (${1:Connection ID});
+]]>
+</content>
+         <tabTrigger>RollbackServerTransaction  </tabTrigger>
+    <scope>source.modl</scope>
+    <description> RollbackServerTransaction  </description>
+</snippet>

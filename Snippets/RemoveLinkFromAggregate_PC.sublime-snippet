@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RemoveLinkFromAggregate(${1:Links File}, ${2: Link ID});
+]]>
+</content>
+         <tabTrigger>RemoveLinkFromAggregate </tabTrigger>
+    <scope>source.modl</scope>
+    <description> RemoveLinkFromAggregate </description>
+</snippet>

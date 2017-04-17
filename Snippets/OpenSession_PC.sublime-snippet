@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+OpenSession(${1:Set File}, ${2: "Session Name"});
+]]>
+</content>
+         <tabTrigger>OpenSession </tabTrigger>
+    <scope>source.modl</scope>
+    <description> OpenSession </description>
+</snippet>

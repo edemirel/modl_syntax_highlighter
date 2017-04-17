@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CloseEtakGeocoder();
+]]>
+</content>
+         <tabTrigger>CloseEtakGeocoder </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CloseEtakGeocoder </description>
+</snippet>

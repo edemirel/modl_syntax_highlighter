@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RouteEditChangeStart(${1:Route Name}, ${2: New Start Time}, ${3: Output Variable});
+]]>
+</content>
+         <tabTrigger>RouteEditChangeStart </tabTrigger>
+    <scope>source.modl</scope>
+    <description> RouteEditChangeStart </description>
+</snippet>

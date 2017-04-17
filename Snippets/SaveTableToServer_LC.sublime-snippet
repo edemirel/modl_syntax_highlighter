@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SaveTableToServer(${1:Connection ID}, ${2: File}, ${3: Active Records Only Flag});
+]]>
+</content>
+         <tabTrigger>savetabletoserver </tabTrigger>
+    <scope>source.modl</scope>
+    <description> savetabletoserver </description>
+</snippet>

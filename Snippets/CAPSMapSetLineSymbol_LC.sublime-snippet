@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CAPSMapSetLineSymbol(${1:Line Symbol Name}, ${2: "Pen Style"}, ${3: Pen Width}, ${4: "Pen Color"});
+]]>
+</content>
+         <tabTrigger>capsmapsetlinesymbol </tabTrigger>
+    <scope>source.modl</scope>
+    <description> capsmapsetlinesymbol </description>
+</snippet>

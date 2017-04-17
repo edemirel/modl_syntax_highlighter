@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+BatchCityGeocoder(${1:Points File}, ${2: "City Database"});
+]]>
+</content>
+         <tabTrigger>BatchCityGeocoder </tabTrigger>
+    <scope>source.modl</scope>
+    <description> BatchCityGeocoder </description>
+</snippet>

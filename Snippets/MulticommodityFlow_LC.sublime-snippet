@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+MulticommodityFlow(${1:Points Set}, ${2: Links Set}, ${3: Product File}, ${4: Algorithm}, ${5: Objective Variable}, ${6:Field Name Alias Table});
+]]>
+</content>
+         <tabTrigger>multicommodityflow </tabTrigger>
+    <scope>source.modl</scope>
+    <description> multicommodityflow </description>
+</snippet>

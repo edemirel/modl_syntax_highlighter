@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CreateProgressBar(${1:Number of Steps}, ${2: Percent Per Update});
+]]>
+</content>
+         <tabTrigger>createprogressbar </tabTrigger>
+    <scope>source.modl</scope>
+    <description> createprogressbar </description>
+</snippet>

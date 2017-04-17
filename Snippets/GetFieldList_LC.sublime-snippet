@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GetFieldList(${1:File}, ${2: File Name}, ${3: Registration Status});
+]]>
+</content>
+         <tabTrigger>getfieldlist </tabTrigger>
+    <scope>source.modl</scope>
+    <description> getfieldlist </description>
+</snippet>

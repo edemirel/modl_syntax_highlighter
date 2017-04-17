@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IdentifyMapSegment(${1:Map File}, ${2: Status Message}, ${3: Input Point X}, ${4: Input Point Y});
+]]>
+</content>
+         <tabTrigger>IdentifyMapSegment </tabTrigger>
+    <scope>source.modl</scope>
+    <description> IdentifyMapSegment </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetProgressBar(${1:Progress Position});
+]]>
+</content>
+         <tabTrigger>setprogressbar </tabTrigger>
+    <scope>source.modl</scope>
+    <description> setprogressbar </description>
+</snippet>

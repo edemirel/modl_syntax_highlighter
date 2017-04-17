@@ -1,0 +1,22 @@
+<snippet>
+    <content>
+        <![CDATA[
+//----------------------------------------------------------------------
+// Macro       : $TM_FILENAME
+// Developer   : ${1:User Name}
+// Date Added  : ${2:Date Added}
+//
+// Description : ${3:Macro Description}
+// Arguments   : ${4:Macro Arguments}
+//
+// Results     : ${5:Macro Results}
+//               
+//               
+//               
+//----------------------------------------------------------------------
+]]>
+</content>
+    <tabTrigger>macroheader</tabTrigger>
+    <scope>source.modl</scope>
+    <description>Macro Comment Header</description>
+</snippet>

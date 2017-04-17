@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DeleteRecord(${1:File}, ${2: Record Index});
+]]>
+</content>
+         <tabTrigger>deleterecord </tabTrigger>
+    <scope>source.modl</scope>
+    <description> deleterecord </description>
+</snippet>

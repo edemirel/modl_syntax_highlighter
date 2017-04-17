@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DefineServerMapping(${1:File}, ${2: Field}, ${3: Database Table}, ${4: Database Field});
+]]>
+</content>
+         <tabTrigger>DefineServerMapping </tabTrigger>
+    <scope>source.modl</scope>
+    <description> DefineServerMapping </description>
+</snippet>

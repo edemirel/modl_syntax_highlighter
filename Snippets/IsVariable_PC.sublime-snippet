@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IsVariable(${1:Variable Name}, ${2: Output Variable});
+]]>
+</content>
+         <tabTrigger>IsVariable </tabTrigger>
+    <scope>source.modl</scope>
+    <description> IsVariable </description>
+</snippet>

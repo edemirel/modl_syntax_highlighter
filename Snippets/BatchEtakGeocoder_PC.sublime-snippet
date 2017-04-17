@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+BatchEtakGeocoder(${1:Points File}, ${2: "Etak Index File"});
+]]>
+</content>
+         <tabTrigger>BatchEtakGeocoder </tabTrigger>
+    <scope>source.modl</scope>
+    <description> BatchEtakGeocoder </description>
+</snippet>

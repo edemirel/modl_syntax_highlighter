@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GetRelation(${1:File}, ${2: Field}, ${3: File Output Variable}, ${4: Field Output Variable});
+]]>
+</content>
+         <tabTrigger>GetRelation </tabTrigger>
+    <scope>source.modl</scope>
+    <description> GetRelation </description>
+</snippet>

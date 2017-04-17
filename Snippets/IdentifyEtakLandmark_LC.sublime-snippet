@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IdentifyEtakLandmark();
+]]>
+</content>
+         <tabTrigger>identifyetaklandmark </tabTrigger>
+    <scope>source.modl</scope>
+    <description> identifyetaklandmark </description>
+</snippet>

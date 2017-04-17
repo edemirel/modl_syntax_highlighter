@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ConnectServer(${1:Data Source Name}, ${2: Connection ID});
+]]>
+</content>
+         <tabTrigger>connectserver </tabTrigger>
+    <scope>source.modl</scope>
+    <description> connectserver </description>
+</snippet>

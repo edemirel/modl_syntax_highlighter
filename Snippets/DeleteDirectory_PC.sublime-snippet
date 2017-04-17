@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DeleteDirectory(${1:Directory});
+]]>
+</content>
+         <tabTrigger>DeleteDirectory </tabTrigger>
+    <scope>source.modl</scope>
+    <description> DeleteDirectory </description>
+</snippet>

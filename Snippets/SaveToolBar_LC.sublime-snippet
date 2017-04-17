@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SaveToolBar(${1:ToolBar}, ${2: [Disk File]});
+]]>
+</content>
+         <tabTrigger>savetoolbar </tabTrigger>
+    <scope>source.modl</scope>
+    <description> savetoolbar </description>
+</snippet>

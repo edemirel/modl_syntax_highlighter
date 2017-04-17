@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CopyDiskFile(${1:Source Disk File}, ${2: "Destination Disk File"});
+]]>
+</content>
+         <tabTrigger>copydiskfile </tabTrigger>
+    <scope>source.modl</scope>
+    <description> copydiskfile </description>
+</snippet>

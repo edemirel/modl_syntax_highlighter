@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DiscardDistanceMatrix();
+]]>
+</content>
+         <tabTrigger>discarddistancematrix </tabTrigger>
+    <scope>source.modl</scope>
+    <description> discarddistancematrix </description>
+</snippet>

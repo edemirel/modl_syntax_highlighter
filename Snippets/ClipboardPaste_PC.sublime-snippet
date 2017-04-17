@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ClipboardPaste(${1:File}, ${2: {List of Fields}}, ${3: Key Designator}, ${4: Data Arrangement}, ${5: Append Flag});
+]]>
+</content>
+         <tabTrigger>ClipboardPaste </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ClipboardPaste </description>
+</snippet>

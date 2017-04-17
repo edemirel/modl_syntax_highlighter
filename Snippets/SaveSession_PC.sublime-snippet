@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SaveSession(${1:Set File}, ${2: "Session Name"}, ${3: Session Format});
+]]>
+</content>
+         <tabTrigger>SaveSession </tabTrigger>
+    <scope>source.modl</scope>
+    <description> SaveSession </description>
+</snippet>

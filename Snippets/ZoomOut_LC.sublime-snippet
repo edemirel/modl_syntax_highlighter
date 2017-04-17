@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+    zoomout(${1:X-Coordinate}, ${2: Y-Coordinate}, ${3: DeltaY}, ${4: Center -Title Bar Message}, ${5: DeltaY-TitleBar Message}, ${6: X-Center TVar}, ${7: Y-Center TVar}, ${8: DeltaY TVar});
+]]>
+</content>
+         <tabTrigger>zoomout </tabTrigger>
+    <scope>source.modl</scope>
+    <description> zoomout </description>
+</snippet>

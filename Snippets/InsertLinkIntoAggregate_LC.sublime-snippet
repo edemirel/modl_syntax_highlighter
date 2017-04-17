@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+InsertLinkIntoAggregate(${1:Input Links File}, ${2: Aggregate Links File}, ${3: Link ID}, ${4: Aggregate LinkID}, ${5: "Logical Expression"}, ${6: Cluster Field}, ${7: Parallel Links Flag});
+]]>
+</content>
+         <tabTrigger>insertlinkintoaggregate </tabTrigger>
+    <scope>source.modl</scope>
+    <description> insertlinkintoaggregate </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+LegendSectionEnd();
+]]>
+</content>
+         <tabTrigger>LegendSectionEnd </tabTrigger>
+    <scope>source.modl</scope>
+    <description> LegendSectionEnd </description>
+</snippet>

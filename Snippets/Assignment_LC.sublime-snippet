@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+Assignment(${1:Links File}, ${2: Objective Variable});
+]]>
+</content>
+         <tabTrigger>assignment </tabTrigger>
+    <scope>source.modl</scope>
+    <description> assignment </description>
+</snippet>

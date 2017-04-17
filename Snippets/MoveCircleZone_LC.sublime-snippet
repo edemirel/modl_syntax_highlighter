@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+MoveCircleZone(${1:Zone File}, ${2: Pick Status Message}, ${3: Move Status Message});
+]]>
+</content>
+         <tabTrigger>movecirclezone </tabTrigger>
+    <scope>source.modl</scope>
+    <description> movecirclezone </description>
+</snippet>

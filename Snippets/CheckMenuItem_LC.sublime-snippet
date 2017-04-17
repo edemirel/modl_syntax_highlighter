@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CheckMenuItem(${1:Check Status});
+]]>
+</content>
+         <tabTrigger>checkmenuitem </tabTrigger>
+    <scope>source.modl</scope>
+    <description> checkmenuitem </description>
+</snippet>

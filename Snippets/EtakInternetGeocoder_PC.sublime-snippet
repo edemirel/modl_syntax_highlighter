@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+EtakInternetGeocoder(${1:Points File}, ${2: User Name}, ${3: Password}, ${4: Etak TCP/IP Address}, ${5: EtakPort}, ${6: Overwrite});
+]]>
+</content>
+         <tabTrigger>EtakInternetGeocoder </tabTrigger>
+    <scope>source.modl</scope>
+    <description> EtakInternetGeocoder </description>
+</snippet>

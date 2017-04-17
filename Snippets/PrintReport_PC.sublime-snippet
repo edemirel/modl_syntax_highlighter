@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+PrintReport(${1:Discard Saved Data}, ${2: Report File Name}, ${3: Database File Name}, ${4: Show PrintSetup});
+]]>
+</content>
+         <tabTrigger>PrintReport </tabTrigger>
+    <scope>source.modl</scope>
+    <description> PrintReport </description>
+</snippet>

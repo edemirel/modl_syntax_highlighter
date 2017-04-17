@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+BuildString(${1:File}, ${2: "Expression"}, ${3: Field or Tvar}, ${4: Format Field});
+]]>
+</content>
+         <tabTrigger>buildstring </tabTrigger>
+    <scope>source.modl</scope>
+    <description> buildstring </description>
+</snippet>

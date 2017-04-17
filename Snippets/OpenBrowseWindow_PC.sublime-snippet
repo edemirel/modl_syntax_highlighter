@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+OpenBrowseWindow(${1:File}, ${2: Enable Menu Options}, ${3: Active Only}, ${4: Allow Edit}, ${5: Key/BrowseOnly}, ${6: Field List File});
+]]>
+</content>
+         <tabTrigger>OpenBrowseWindow </tabTrigger>
+    <scope>source.modl</scope>
+    <description> OpenBrowseWindow </description>
+</snippet>

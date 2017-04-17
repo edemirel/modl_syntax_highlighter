@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+OpenEtakMap(${1:Etak MapAccess File});
+]]>
+</content>
+         <tabTrigger>openetakmap </tabTrigger>
+    <scope>source.modl</scope>
+    <description> openetakmap </description>
+</snippet>

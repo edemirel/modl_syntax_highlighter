@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+SetObjectField(${1:Object Type}, ${2: Field Name}, ${3: Field Attribute}, ${4: Attribute Value});
+]]>
+</content>
+         <tabTrigger>setobjectfield </tabTrigger>
+    <scope>source.modl</scope>
+    <description> setobjectfield </description>
+</snippet>

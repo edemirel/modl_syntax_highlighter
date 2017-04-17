@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+DiscardAllTimers();
+]]>
+</content>
+         <tabTrigger>discardalltimers </tabTrigger>
+    <scope>source.modl</scope>
+    <description> discardalltimers </description>
+</snippet>

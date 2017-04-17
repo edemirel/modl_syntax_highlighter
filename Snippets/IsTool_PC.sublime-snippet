@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IsTool(${1:Tool Name}, ${2: Output Variable});
+]]>
+</content>
+         <tabTrigger>IsTool </tabTrigger>
+    <scope>source.modl</scope>
+    <description> IsTool </description>
+</snippet>

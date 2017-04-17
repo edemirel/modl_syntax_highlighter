@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ReadVariableGroup(${1:Variable Group}, ${2: "Variable Group File"});
+]]>
+</content>
+         <tabTrigger>ReadVariableGroup </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ReadVariableGroup </description>
+</snippet>

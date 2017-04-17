@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+AssignLinksToZones(${1:Links File}, ${2: Zone File});
+]]>
+</content>
+         <tabTrigger>AssignLinksToZones </tabTrigger>
+    <scope>source.modl</scope>
+    <description> AssignLinksToZones </description>
+</snippet>

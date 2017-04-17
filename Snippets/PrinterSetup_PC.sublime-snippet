@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+PrinterSetup();
+]]>
+</content>
+         <tabTrigger>PrinterSetup </tabTrigger>
+    <scope>source.modl</scope>
+    <description> PrinterSetup </description>
+</snippet>

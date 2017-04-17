@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+GenerateUniqueString(${1:File}, ${2: Field});
+]]>
+</content>
+         <tabTrigger>generateuniquestring </tabTrigger>
+    <scope>source.modl</scope>
+    <description> generateuniquestring </description>
+</snippet>

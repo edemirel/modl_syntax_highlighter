@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RouteExplorer(${1:Vehicle File}, ${2: Links File}, ${3: Parameter File}, ${4: Network Arcs File}, ${5: Network AccessArcs File}, ${6: Alias File}, ${7: Filter File}, ${8: Right Click Macro});
+]]>
+</content>
+         <tabTrigger>routeexplorer </tabTrigger>
+    <scope>source.modl</scope>
+    <description> routeexplorer </description>
+</snippet>

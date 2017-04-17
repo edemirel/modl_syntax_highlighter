@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CreateTimer(${1:Timer Name}, ${2: Interval}, ${3: Macro}, ${4: [Macro Arguments]});
+]]>
+</content>
+         <tabTrigger>createtimer </tabTrigger>
+    <scope>source.modl</scope>
+    <description> createtimer </description>
+</snippet>

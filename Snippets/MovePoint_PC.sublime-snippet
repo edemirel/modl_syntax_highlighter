@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+MovePoint(${1:Points File}, ${2: Status Message});
+]]>
+</content>
+         <tabTrigger>MovePoint </tabTrigger>
+    <scope>source.modl</scope>
+    <description> MovePoint </description>
+</snippet>

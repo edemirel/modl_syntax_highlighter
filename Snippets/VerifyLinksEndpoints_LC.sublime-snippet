@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+VerifyLinksEndpoints(${1:Links File}, ${2: Method}, ${3: Links Output Field}, ${4: Output Variable});
+]]>
+</content>
+         <tabTrigger>verifylinksendpoints </tabTrigger>
+    <scope>source.modl</scope>
+    <description> verifylinksendpoints </description>
+</snippet>

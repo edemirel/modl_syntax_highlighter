@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CreateField(${1:File}, ${2: Unregistered Field});
+]]>
+</content>
+         <tabTrigger>createfield </tabTrigger>
+    <scope>source.modl</scope>
+    <description> createfield </description>
+</snippet>

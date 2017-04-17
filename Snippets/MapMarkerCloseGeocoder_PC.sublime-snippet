@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+MapMarkerCloseGeocoder();
+]]>
+</content>
+         <tabTrigger>MapMarkerCloseGeocoder </tabTrigger>
+    <scope>source.modl</scope>
+    <description> MapMarkerCloseGeocoder </description>
+</snippet>

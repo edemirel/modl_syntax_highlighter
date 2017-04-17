@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+LegendSave(${1:Legend Window Name}, ${2: Legend File});
+]]>
+</content>
+         <tabTrigger>legendsave </tabTrigger>
+    <scope>source.modl</scope>
+    <description> legendsave </description>
+</snippet>

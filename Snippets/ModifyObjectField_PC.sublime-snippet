@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ModifyObjectField(${1:Object Type}, ${2: Current Field Name}, ${3: New Field Name}, ${4: HIDE Flag}, ${5: EDITFlag}, ${6: Field Width}, ${7: Field Precision}, ${8: Save Flag});
+]]>
+</content>
+         <tabTrigger>ModifyObjectField </tabTrigger>
+    <scope>source.modl</scope>
+    <description> ModifyObjectField </description>
+</snippet>

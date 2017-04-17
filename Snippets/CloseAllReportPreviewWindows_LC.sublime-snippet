@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CloseAllReportPreviewWindows();
+]]>
+</content>
+         <tabTrigger>closeallreportpreviewwindows </tabTrigger>
+    <scope>source.modl</scope>
+    <description> closeallreportpreviewwindows </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CZARRateShipment(${1:Header File}, ${2: [Detail File]}, ${3: [Discount File]});
+]]>
+</content>
+         <tabTrigger>CZARRateShipment </tabTrigger>
+    <scope>source.modl</scope>
+    <description> CZARRateShipment </description>
+</snippet>

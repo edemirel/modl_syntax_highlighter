@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+RouteEditMoveMultiple(${1:Source Route Table}, ${2: Set Route File}, ${3: Target Route Table}, ${4: LinkID}, ${5:Route Action});
+]]>
+</content>
+         <tabTrigger>RouteEditMoveMultiple </tabTrigger>
+    <scope>source.modl</scope>
+    <description> RouteEditMoveMultiple </description>
+</snippet>

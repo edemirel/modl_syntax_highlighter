@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IsField(${1:File}, ${2: Field}, ${3: Output Variable});
+]]>
+</content>
+         <tabTrigger>IsField </tabTrigger>
+    <scope>source.modl</scope>
+    <description> IsField </description>
+</snippet>

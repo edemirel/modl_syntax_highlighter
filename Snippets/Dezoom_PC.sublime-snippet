@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+Dezoom();
+]]>
+</content>
+         <tabTrigger>Dezoom </tabTrigger>
+    <scope>source.modl</scope>
+    <description> Dezoom </description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+ActivateMenu(${1:Menu});
+]]>
+</content>
+         <tabTrigger>activatemenu </tabTrigger>
+    <scope>source.modl</scope>
+    <description> activatemenu </description>
+</snippet>

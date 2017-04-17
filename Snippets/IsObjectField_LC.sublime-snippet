@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+IsObjectField(${1:Object Type}, ${2: Field}, ${3: Output Variable});
+]]>
+</content>
+         <tabTrigger>isobjectfield </tabTrigger>
+    <scope>source.modl</scope>
+    <description> isobjectfield </description>
+</snippet>

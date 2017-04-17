@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+OpenToolBar(${1:Disk File}, ${2: [ToolBar Name]});
+]]>
+</content>
+         <tabTrigger>OpenToolBar </tabTrigger>
+    <scope>source.modl</scope>
+    <description> OpenToolBar </description>
+</snippet>

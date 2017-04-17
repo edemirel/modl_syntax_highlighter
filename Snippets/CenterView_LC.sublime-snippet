@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+        <![CDATA[
+CenterView(${1:X-Coordinate}, ${2: Y-Coordinate}, ${3: Status Message}, ${4: X-Center TVar}, ${5: Y-Center TVar});
+]]>
+</content>
+         <tabTrigger>centerview </tabTrigger>
+    <scope>source.modl</scope>
+    <description> centerview </description>
+</snippet>
